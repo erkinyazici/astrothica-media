@@ -1,0 +1,800 @@
+{
+ "fps": 30,
+ "durationInFrames": 2642,
+ "sentences": [
+  {
+   "i": 0,
+   "start": 15,
+   "end": 155,
+   "chunks": [
+    {
+     "text": "Annenle konuşurken neden hep",
+     "start": 18,
+     "end": 72
+    },
+    {
+     "text": "aynı yerde tıkanıyorsunuz?",
+     "start": 72,
+     "end": 163
+    }
+   ],
+   "words": [
+    {
+     "w": "Annenle",
+     "f": 18
+    },
+    {
+     "w": "konuşurken",
+     "f": 32
+    },
+    {
+     "w": "neden",
+     "f": 53
+    },
+    {
+     "w": "hep",
+     "f": 64
+    },
+    {
+     "w": "aynı",
+     "f": 72
+    },
+    {
+     "w": "yerde",
+     "f": 82
+    },
+    {
+     "w": "tıkanıyorsunuz",
+     "f": 92
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "start": 172,
+   "end": 284,
+   "chunks": [
+    {
+     "text": "Belki mesele konu değil…",
+     "start": 175,
+     "end": 225
+    },
+    {
+     "text": "elementiniz.",
+     "start": 225,
+     "end": 292
+    }
+   ],
+   "words": [
+    {
+     "w": "Belki",
+     "f": 175
+    },
+    {
+     "w": "mesele",
+     "f": 187
+    },
+    {
+     "w": "konu",
+     "f": 200
+    },
+    {
+     "w": "değil",
+     "f": 207
+    },
+    {
+     "w": "elementiniz",
+     "f": 225
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "start": 301,
+   "end": 506,
+   "chunks": [
+    {
+     "text": "Astrolojide her burç dört",
+     "start": 304,
+     "end": 350
+    },
+    {
+     "text": "elementten birine aittir:",
+     "start": 350,
+     "end": 404
+    },
+    {
+     "text": "ateş, toprak, hava ve su.",
+     "start": 404,
+     "end": 514
+    }
+   ],
+   "words": [
+    {
+     "w": "Astrolojide",
+     "f": 304
+    },
+    {
+     "w": "her",
+     "f": 326
+    },
+    {
+     "w": "burç",
+     "f": 334
+    },
+    {
+     "w": "dört",
+     "f": 342
+    },
+    {
+     "w": "elementten",
+     "f": 350
+    },
+    {
+     "w": "birine",
+     "f": 370
+    },
+    {
+     "w": "aittir",
+     "f": 379
+    },
+    {
+     "w": "ateş",
+     "f": 405
+    },
+    {
+     "w": "toprak",
+     "f": 419
+    },
+    {
+     "w": "hava",
+     "f": 438
+    },
+    {
+     "w": "ve",
+     "f": 446
+    },
+    {
+     "w": "su",
+     "f": 450
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "start": 522,
+   "end": 743,
+   "chunks": [
+    {
+     "text": "Ateş ve su… Biri aklındakini",
+     "start": 526,
+     "end": 619
+    },
+    {
+     "text": "hemen söyler,",
+     "start": 619,
+     "end": 650
+    },
+    {
+     "text": "diğeri o sözü günlerce taşır.",
+     "start": 650,
+     "end": 751
+    }
+   ],
+   "words": [
+    {
+     "w": "Ateş",
+     "f": 525
+    },
+    {
+     "w": "ve",
+     "f": 538
+    },
+    {
+     "w": "su",
+     "f": 543
+    },
+    {
+     "w": "Biri",
+     "f": 587
+    },
+    {
+     "w": "aklındakini",
+     "f": 597
+    },
+    {
+     "w": "hemen",
+     "f": 619
+    },
+    {
+     "w": "söyler",
+     "f": 629
+    },
+    {
+     "w": "diğeri",
+     "f": 650
+    },
+    {
+     "w": "o",
+     "f": 666
+    },
+    {
+     "w": "sözü",
+     "f": 670
+    },
+    {
+     "w": "günlerce",
+     "f": 679
+    },
+    {
+     "w": "taşır",
+     "f": 695
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "start": 759,
+   "end": 1054,
+   "chunks": [
+    {
+     "text": "Toprak ve hava…",
+     "start": 762,
+     "end": 832
+    },
+    {
+     "text": "Biri garanti ister,",
+     "start": 832,
+     "end": 874
+    },
+    {
+     "text": "diğeri özgürlük.",
+     "start": 874,
+     "end": 940
+    },
+    {
+     "text": "Biri “plan yapalım”",
+     "start": 940,
+     "end": 975
+    },
+    {
+     "text": "der, diğeri “bakarız”.",
+     "start": 975,
+     "end": 1062
+    }
+   ],
+   "words": [
+    {
+     "w": "Toprak",
+     "f": 762
+    },
+    {
+     "w": "ve",
+     "f": 779
+    },
+    {
+     "w": "hava",
+     "f": 785
+    },
+    {
+     "w": "Biri",
+     "f": 832
+    },
+    {
+     "w": "garanti",
+     "f": 840
+    },
+    {
+     "w": "ister",
+     "f": 855
+    },
+    {
+     "w": "diğeri",
+     "f": 874
+    },
+    {
+     "w": "özgürlük",
+     "f": 887
+    },
+    {
+     "w": "Biri",
+     "f": 939
+    },
+    {
+     "w": "plan",
+     "f": 950
+    },
+    {
+     "w": "yapalım",
+     "f": 960
+    },
+    {
+     "w": "der",
+     "f": 975
+    },
+    {
+     "w": "diğeri",
+     "f": 989
+    },
+    {
+     "w": "bakarız",
+     "f": 1003
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "start": 1071,
+   "end": 1282,
+   "chunks": [
+    {
+     "text": "Ateş ve hava birbirini büyütür;",
+     "start": 1074,
+     "end": 1135
+    },
+    {
+     "text": "ama aynı anda konuştuklarında",
+     "start": 1135,
+     "end": 1187
+    },
+    {
+     "text": "kimse dinlemez.",
+     "start": 1187,
+     "end": 1290
+    }
+   ],
+   "words": [
+    {
+     "w": "Ateş",
+     "f": 1074
+    },
+    {
+     "w": "ve",
+     "f": 1085
+    },
+    {
+     "w": "hava",
+     "f": 1090
+    },
+    {
+     "w": "birbirini",
+     "f": 1098
+    },
+    {
+     "w": "büyütür",
+     "f": 1113
+    },
+    {
+     "w": "ama",
+     "f": 1136
+    },
+    {
+     "w": "aynı",
+     "f": 1143
+    },
+    {
+     "w": "anda",
+     "f": 1153
+    },
+    {
+     "w": "konuştuklarında",
+     "f": 1160
+    },
+    {
+     "w": "kimse",
+     "f": 1187
+    },
+    {
+     "w": "dinlemez",
+     "f": 1198
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "start": 1298,
+   "end": 1463,
+   "chunks": [
+    {
+     "text": "Toprak ve su sessizce anlaşır;",
+     "start": 1301,
+     "end": 1366
+    },
+    {
+     "text": "kırgınlıklar da sessizce birikir.",
+     "start": 1366,
+     "end": 1471
+    }
+   ],
+   "words": [
+    {
+     "w": "Toprak",
+     "f": 1301
+    },
+    {
+     "w": "ve",
+     "f": 1315
+    },
+    {
+     "w": "su",
+     "f": 1320
+    },
+    {
+     "w": "sessizce",
+     "f": 1325
+    },
+    {
+     "w": "anlaşır",
+     "f": 1343
+    },
+    {
+     "w": "kırgınlıklar",
+     "f": 1365
+    },
+    {
+     "w": "da",
+     "f": 1389
+    },
+    {
+     "w": "sessizce",
+     "f": 1393
+    },
+    {
+     "w": "birikir",
+     "f": 1410
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "start": 1479,
+   "end": 1663,
+   "chunks": [
+    {
+     "text": "Peki aynı elementtenseniz?",
+     "start": 1482,
+     "end": 1568
+    },
+    {
+     "text": "O zaman birbirinizin",
+     "start": 1568,
+     "end": 1604
+    },
+    {
+     "text": "aynasısınız.",
+     "start": 1604,
+     "end": 1671
+    }
+   ],
+   "words": [
+    {
+     "w": "Peki",
+     "f": 1482
+    },
+    {
+     "w": "aynı",
+     "f": 1492
+    },
+    {
+     "w": "elementtenseniz",
+     "f": 1502
+    },
+    {
+     "w": "O",
+     "f": 1568
+    },
+    {
+     "w": "zaman",
+     "f": 1572
+    },
+    {
+     "w": "birbirinizin",
+     "f": 1583
+    },
+    {
+     "w": "aynasısınız",
+     "f": 1604
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "start": 1680,
+   "end": 1863,
+   "chunks": [
+    {
+     "text": "En çok da bu yüzden",
+     "start": 1683,
+     "end": 1717
+    },
+    {
+     "text": "çatışırsınız;",
+     "start": 1717,
+     "end": 1747
+    },
+    {
+     "text": "çünkü onda gördüğün,",
+     "start": 1747,
+     "end": 1790
+    },
+    {
+     "text": "aslında sende olan.",
+     "start": 1790,
+     "end": 1871
+    }
+   ],
+   "words": [
+    {
+     "w": "En",
+     "f": 1683
+    },
+    {
+     "w": "çok",
+     "f": 1689
+    },
+    {
+     "w": "da",
+     "f": 1696
+    },
+    {
+     "w": "bu",
+     "f": 1700
+    },
+    {
+     "w": "yüzden",
+     "f": 1705
+    },
+    {
+     "w": "çatışırsınız",
+     "f": 1717
+    },
+    {
+     "w": "çünkü",
+     "f": 1747
+    },
+    {
+     "w": "onda",
+     "f": 1759
+    },
+    {
+     "w": "gördüğün",
+     "f": 1768
+    },
+    {
+     "w": "aslında",
+     "f": 1790
+    },
+    {
+     "w": "sende",
+     "f": 1805
+    },
+    {
+     "w": "olan",
+     "f": 1815
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "start": 1879,
+   "end": 2066,
+   "chunks": [
+    {
+     "text": "Belki iyileşmek aynı dili",
+     "start": 1882,
+     "end": 1929
+    },
+    {
+     "text": "konuşmak değil;",
+     "start": 1929,
+     "end": 1963
+    },
+    {
+     "text": "birbirinizin dilini öğrenmektir.",
+     "start": 1963,
+     "end": 2074
+    }
+   ],
+   "words": [
+    {
+     "w": "Belki",
+     "f": 1882
+    },
+    {
+     "w": "iyileşmek",
+     "f": 1894
+    },
+    {
+     "w": "aynı",
+     "f": 1912
+    },
+    {
+     "w": "dili",
+     "f": 1922
+    },
+    {
+     "w": "konuşmak",
+     "f": 1929
+    },
+    {
+     "w": "değil",
+     "f": 1945
+    },
+    {
+     "w": "birbirinizin",
+     "f": 1963
+    },
+    {
+     "w": "dilini",
+     "f": 1985
+    },
+    {
+     "w": "öğrenmektir",
+     "f": 1995
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "start": 2083,
+   "end": 2302,
+   "chunks": [
+    {
+     "text": "Annenin burcunu ve kendi burcunu",
+     "start": 2086,
+     "end": 2142
+    },
+    {
+     "text": "yorumlara yaz;",
+     "start": 2142,
+     "end": 2176
+    },
+    {
+     "text": "elementinizin size ne",
+     "start": 2176,
+     "end": 2214
+    },
+    {
+     "text": "anlattığına birlikte bakalım.",
+     "start": 2214,
+     "end": 2310
+    }
+   ],
+   "words": [
+    {
+     "w": "Annenin",
+     "f": 2086
+    },
+    {
+     "w": "burcunu",
+     "f": 2099
+    },
+    {
+     "w": "ve",
+     "f": 2114
+    },
+    {
+     "w": "kendi",
+     "f": 2119
+    },
+    {
+     "w": "burcunu",
+     "f": 2129
+    },
+    {
+     "w": "yorumlara",
+     "f": 2142
+    },
+    {
+     "w": "yaz",
+     "f": 2156
+    },
+    {
+     "w": "elementinizin",
+     "f": 2176
+    },
+    {
+     "w": "size",
+     "f": 2201
+    },
+    {
+     "w": "ne",
+     "f": 2209
+    },
+    {
+     "w": "anlattığına",
+     "f": 2214
+    },
+    {
+     "w": "birlikte",
+     "f": 2233
+    },
+    {
+     "w": "bakalım",
+     "f": 2245
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "start": 2318,
+   "end": 2594,
+   "chunks": [
+    {
+     "text": "Daha derinini merak ediyorsan,",
+     "start": 2321,
+     "end": 2379
+    },
+    {
+     "text": "ikinizin haritasını",
+     "start": 2379,
+     "end": 2414
+    },
+    {
+     "text": "Astrothica'da karşılaştır.",
+     "start": 2414,
+     "end": 2501
+    },
+    {
+     "text": "Sinastri tam olarak bunun için.",
+     "start": 2501,
+     "end": 2602
+    }
+   ],
+   "words": [
+    {
+     "w": "Daha",
+     "f": 2321
+    },
+    {
+     "w": "derinini",
+     "f": 2329
+    },
+    {
+     "w": "merak",
+     "f": 2343
+    },
+    {
+     "w": "ediyorsan",
+     "f": 2353
+    },
+    {
+     "w": "ikinizin",
+     "f": 2379
+    },
+    {
+     "w": "haritasını",
+     "f": 2395
+    },
+    {
+     "w": "Astrotika'da",
+     "f": 2413
+    },
+    {
+     "w": "karşılaştır",
+     "f": 2434
+    },
+    {
+     "w": "Sinastri",
+     "f": 2500
+    },
+    {
+     "w": "tam",
+     "f": 2520
+    },
+    {
+     "w": "olarak",
+     "f": 2528
+    },
+    {
+     "w": "bunun",
+     "f": 2540
+    },
+    {
+     "w": "için",
+     "f": 2550
+    }
+   ]
+  }
+ ]
+}

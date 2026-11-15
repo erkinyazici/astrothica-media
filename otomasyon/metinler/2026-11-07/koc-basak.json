@@ -1,0 +1,36 @@
+{
+  "dateLabel": "7 Kasım 2026",
+  "coverDate": "7 Kasım 2026 · Cumartesi",
+  "signs": [
+    {"sign": "koc", "items": [
+      {"label": "Aşk", "text": "Ani bir mesaj gününü değiştirebilir; cevap vermeden önce gülümse."},
+      {"label": "İş", "text": "Hızın avantajın, ama bugün tek bir işi bitirmek daha değerli."},
+      {"label": "Enerji", "text": "Sabah yüksek başlıyorsun; öğleden sonra kısa bir mola şart."}],
+     "luckyColor": {"name": "Kızıl", "hex": "#B3262E"}, "luckyNumber": 9},
+    {"sign": "boga", "items": [
+      {"label": "Aşk", "text": "Küçük bir jest, uzun bir konuşmadan daha çok şey anlatır."},
+      {"label": "İş", "text": "Para konularında acele etme; doğru teklif kendiliğinden gelir."},
+      {"label": "Enerji", "text": "Yavaş ama sağlam ilerliyorsun; akşam kendine güzel bir sofra kur."}],
+     "luckyColor": {"name": "Zümrüt", "hex": "#2E7D5B"}, "luckyNumber": 6},
+    {"sign": "ikizler", "items": [
+      {"label": "Aşk", "text": "Bir sohbet beklemediğin bir yöne kayabilir; merakına güven."},
+      {"label": "İş", "text": "Yarım kalan yazışmaları bugün kapat, kafan hafiflesin."},
+      {"label": "Enerji", "text": "Zihnin çok hızlı; akşam ekransız bir saat iyi gelecek."}],
+     "luckyColor": {"name": "Limon sarısı", "hex": "#E8C547"}, "luckyNumber": 5},
+    {"sign": "yengec", "items": [
+      {"label": "Aşk", "text": "Duygularını saklama; doğru kişi seni olduğun gibi anlar."},
+      {"label": "İş", "text": "Kafandaki plan bugün netlik kazanıyor; ilk adımı yaz."},
+      {"label": "Enerji", "text": "Sezgilerin güçlü; içinden geleni ertelemeden yap."}],
+     "luckyColor": {"name": "Gümüş", "hex": "#B8C2CC"}, "luckyNumber": 2},
+    {"sign": "aslan", "items": [
+      {"label": "Aşk", "text": "Bugün ilgi odağısın; o bakışı karşılıksız bırakma."},
+      {"label": "İş", "text": "Fikrini yüksek sesle söyle; doğru kişiler dinliyor."},
+      {"label": "Enerji", "text": "Yüksek ama dağınık; gücünü tek bir hedefe topla."}],
+     "luckyColor": {"name": "Altın", "hex": "#D4A017"}, "luckyNumber": 1},
+    {"sign": "basak", "items": [
+      {"label": "Aşk", "text": "Kusur aramayı bırak; bugün sadece anın tadını çıkar."},
+      {"label": "İş", "text": "Detaylardaki titizliğin bugün fark ediliyor."},
+      {"label": "Enerji", "text": "Küçük bir düzenleme bile zihnini ferahlatacak."}],
+     "luckyColor": {"name": "Zeytin yeşili", "hex": "#6B7F4E"}, "luckyNumber": 4}
+  ]
+}

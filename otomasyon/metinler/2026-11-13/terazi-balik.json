@@ -1,0 +1,138 @@
+{
+ "dateLabel": "13 Kasım 2026",
+ "coverDate": "13 Kasım 2026 · Cuma",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Karşındakini memnun etmeye çalışırken kendini unutma."
+    },
+    {
+     "label": "İş",
+     "text": "Bir karar vermen gerekiyor; artılarını ve eksilerini yaz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Sevdiğin bir şarkı ruh halini hemen değiştirir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Lila",
+    "hex": "#B79FD8"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Bir sırrı paylaşmak aranızdaki bağı güçlendirebilir."
+    },
+    {
+     "label": "İş",
+     "text": "Sezgilerin bir fırsatı herkesten önce fark ediyor."
+    },
+    {
+     "label": "Enerji",
+     "text": "Doğum günü sezonunun enerjisi hâlâ seninle; tadını çıkar."
+    }
+   ],
+   "luckyColor": {
+    "name": "Bordo",
+    "hex": "#7A1F3D"
+   },
+   "luckyNumber": 8
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Spontane bir davet bugün kalbini hızlandırabilir."
+    },
+    {
+     "label": "İş",
+     "text": "Yeni bir şey öğrenmek için doğru zaman; bir kursa göz at."
+    },
+    {
+     "label": "Enerji",
+     "text": "Hareket et; dışarıda geçen bir saat iyi gelir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Lacivert",
+    "hex": "#2B3A8C"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Duygularını göstermek zayıflık değil; bugün bunu dene."
+    },
+    {
+     "label": "İş",
+     "text": "Uzun vadeli planın netleşiyor; ilk adımı at."
+    },
+    {
+     "label": "Enerji",
+     "text": "Omuzlarındaki yükü biraz bırak; dinlenmek de bir iş."
+    }
+   ],
+   "luckyColor": {
+    "name": "Haki",
+    "hex": "#6B6B47"
+   },
+   "luckyNumber": 10
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Farklılığın bugün birinin dikkatini çekiyor."
+    },
+    {
+     "label": "İş",
+     "text": "Ekibin fikirlerini sen toparlarsan sonuç hızlanır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Ekrana ara ver; gökyüzüne bakmak bile yeter."
+    }
+   ],
+   "luckyColor": {
+    "name": "Elektrik mavisi",
+    "hex": "#3E7CF0"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kafanda kurduğun konuşma gerçekte çok daha yumuşak geçecek."
+    },
+    {
+     "label": "İş",
+     "text": "Yaratıcı bir fikri kenara yazma, hemen dene."
+    },
+    {
+     "label": "Enerji",
+     "text": "Erken yatmak, yarına daha berrak uyanmanı sağlar."
+    }
+   ],
+   "luckyColor": {
+    "name": "Deniz yeşili",
+    "hex": "#2E8B7A"
+   },
+   "luckyNumber": 12
+  }
+ ]
+}

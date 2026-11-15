@@ -1,0 +1,36 @@
+{
+  "dateLabel": "7 Kasım 2026",
+  "coverDate": "7 Kasım 2026 · Cumartesi",
+  "signs": [
+    {"sign": "terazi", "items": [
+      {"label": "Aşk", "text": "Kararsız kaldığın konuda kalbin çoktan seçimini yaptı; onu dinle."},
+      {"label": "İş", "text": "Bir ortaklık teklifine kulak ver, ama şartları yazılı netleştir."},
+      {"label": "Enerji", "text": "Dengeni bozan tek şey uykusuzluk; bu akşam erken yat."}],
+     "luckyColor": {"name": "Pudra", "hex": "#E3B3C3"}, "luckyNumber": 6},
+    {"sign": "akrep", "items": [
+      {"label": "Aşk", "text": "Doğum günü sezonundasın; bugün çekiciliğini fark etmeyen kalmaz."},
+      {"label": "İş", "text": "Sessizce yürüttüğün işin sonuçları görünmeye başlıyor."},
+      {"label": "Enerji", "text": "Yoğunluk sende, kontrol de sende. Derin bir nefes yeter."}],
+     "luckyColor": {"name": "Bordo", "hex": "#7A1F3D"}, "luckyNumber": 8},
+    {"sign": "yay", "items": [
+      {"label": "Aşk", "text": "Plansız bir buluşma, haftanın en güzel anısına dönüşebilir."},
+      {"label": "İş", "text": "Büyük resmi görüyorsun; şimdi küçük adımları sıraya koy."},
+      {"label": "Enerji", "text": "Hareket iyi gelecek; kısa bir yürüyüş bile kafanı açar."}],
+     "luckyColor": {"name": "Mor", "hex": "#6A3FA0"}, "luckyNumber": 3},
+    {"sign": "oglak", "items": [
+      {"label": "Aşk", "text": "Duvarlarını biraz indir; karşındaki sandığından daha yakın."},
+      {"label": "İş", "text": "Hafta sonu bile aklın işte. Bir saatliğine de olsa bırak."},
+      {"label": "Enerji", "text": "Sabırla ilerliyorsun; bugün kendini ödüllendirmeyi unutma."}],
+     "luckyColor": {"name": "Antrasit", "hex": "#3E434C"}, "luckyNumber": 10},
+    {"sign": "kova", "items": [
+      {"label": "Aşk", "text": "Sıra dışı bir fikir, ilişkine taze bir hava getirebilir."},
+      {"label": "İş", "text": "Bir arkadaşının önerisi sana yeni bir kapı aralıyor."},
+      {"label": "Enerji", "text": "Kalabalık yerine kendi alanında şarj ol."}],
+     "luckyColor": {"name": "Turkuaz", "hex": "#2FA4A9"}, "luckyNumber": 11},
+    {"sign": "balik", "items": [
+      {"label": "Aşk", "text": "Rüyanda hissettiğin o duygu gerçeğe sandığından yakın."},
+      {"label": "İş", "text": "Yaratıcı bir işe zaman ayır; ilham bugün bol."},
+      {"label": "Enerji", "text": "Suya yakın ol; uzun bir duş bile zihnini arındırır."}],
+     "luckyColor": {"name": "Deniz mavisi", "hex": "#2E6DA4"}, "luckyNumber": 7}
+  ]
+}

@@ -1,0 +1,571 @@
+{
+ "fps": 30,
+ "durationInFrames": 1091,
+ "sentences": [
+  {
+   "i": 0,
+   "start": 10,
+   "end": 66,
+   "chunks": [
+    {
+     "words": [
+      "Doğduğun",
+      "saat",
+      "sana",
+      "ne",
+      "söylüyor?"
+     ],
+     "start": 10,
+     "end": 72
+    }
+   ],
+   "words": [
+    {
+     "w": "Doğduğun",
+     "f": 10
+    },
+    {
+     "w": "saat",
+     "f": 26
+    },
+    {
+     "w": "sana",
+     "f": 36
+    },
+    {
+     "w": "ne",
+     "f": 42
+    },
+    {
+     "w": "söylüyor?",
+     "f": 46
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "start": 78,
+   "end": 172,
+   "chunks": [
+    {
+     "words": [
+      "Burcunun",
+      "özelliklerini",
+      "okuyunca"
+     ],
+     "start": 78,
+     "end": 126
+    },
+    {
+     "words": [
+      "“bu",
+      "ben",
+      "değilim”",
+      "mi",
+      "diyorsun?"
+     ],
+     "start": 126,
+     "end": 178
+    }
+   ],
+   "words": [
+    {
+     "w": "Burcunun",
+     "f": 78
+    },
+    {
+     "w": "özelliklerini",
+     "f": 91
+    },
+    {
+     "w": "okuyunca",
+     "f": 110
+    },
+    {
+     "w": "“bu",
+     "f": 126
+    },
+    {
+     "w": "ben",
+     "f": 132
+    },
+    {
+     "w": "değilim”",
+     "f": 137
+    },
+    {
+     "w": "mi",
+     "f": 148
+    },
+    {
+     "w": "diyorsun?",
+     "f": 151
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "start": 184,
+   "end": 243,
+   "chunks": [
+    {
+     "words": [
+      "Sebebi",
+      "doğduğun",
+      "saat",
+      "olabilir."
+     ],
+     "start": 184,
+     "end": 249
+    }
+   ],
+   "words": [
+    {
+     "w": "Sebebi",
+     "f": 184
+    },
+    {
+     "w": "doğduğun",
+     "f": 196
+    },
+    {
+     "w": "saat",
+     "f": 209
+    },
+    {
+     "w": "olabilir.",
+     "f": 218
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "start": 255,
+   "end": 342,
+   "chunks": [
+    {
+     "words": [
+      "Burcun,",
+      "doğduğun",
+      "gün",
+      "Güneş'in"
+     ],
+     "start": 255,
+     "end": 305
+    },
+    {
+     "words": [
+      "nerede",
+      "olduğunu",
+      "söyler."
+     ],
+     "start": 305,
+     "end": 348
+    }
+   ],
+   "words": [
+    {
+     "w": "Burcun,",
+     "f": 255
+    },
+    {
+     "w": "doğduğun",
+     "f": 271
+    },
+    {
+     "w": "gün",
+     "f": 286
+    },
+    {
+     "w": "Güneş'in",
+     "f": 293
+    },
+    {
+     "w": "nerede",
+     "f": 305
+    },
+    {
+     "w": "olduğunu",
+     "f": 314
+    },
+    {
+     "w": "söyler.",
+     "f": 326
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "start": 354,
+   "end": 496,
+   "chunks": [
+    {
+     "words": [
+      "Doğduğun",
+      "saat",
+      "ise"
+     ],
+     "start": 354,
+     "end": 388
+    },
+    {
+     "words": [
+      "yükselenini",
+      "belirler:"
+     ],
+     "start": 388,
+     "end": 429
+    },
+    {
+     "words": [
+      "insanların",
+      "sende",
+      "ilk",
+      "gördüğü",
+      "yüzü."
+     ],
+     "start": 429,
+     "end": 502
+    }
+   ],
+   "words": [
+    {
+     "w": "Doğduğun",
+     "f": 354
+    },
+    {
+     "w": "saat",
+     "f": 369
+    },
+    {
+     "w": "ise",
+     "f": 379
+    },
+    {
+     "w": "yükselenini",
+     "f": 388
+    },
+    {
+     "w": "belirler:",
+     "f": 406
+    },
+    {
+     "w": "insanların",
+     "f": 429
+    },
+    {
+     "w": "sende",
+     "f": 447
+    },
+    {
+     "w": "ilk",
+     "f": 456
+    },
+    {
+     "w": "gördüğü",
+     "f": 462
+    },
+    {
+     "w": "yüzü.",
+     "f": 475
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "start": 507,
+   "end": 579,
+   "chunks": [
+    {
+     "words": [
+      "Yükselen",
+      "ortalama",
+      "iki",
+      "saatte"
+     ],
+     "start": 507,
+     "end": 552
+    },
+    {
+     "words": [
+      "bir",
+      "değişir."
+     ],
+     "start": 552,
+     "end": 585
+    }
+   ],
+   "words": [
+    {
+     "w": "Yükselen",
+     "f": 507
+    },
+    {
+     "w": "ortalama",
+     "f": 522
+    },
+    {
+     "w": "iki",
+     "f": 535
+    },
+    {
+     "w": "saatte",
+     "f": 540
+    },
+    {
+     "w": "bir",
+     "f": 552
+    },
+    {
+     "w": "değişir.",
+     "f": 555
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "start": 591,
+   "end": 706,
+   "chunks": [
+    {
+     "words": [
+      "Aynı",
+      "gün",
+      "doğan",
+      "iki",
+      "kişinin"
+     ],
+     "start": 591,
+     "end": 631
+    },
+    {
+     "words": [
+      "birbirine",
+      "pek",
+      "benzememesinin"
+     ],
+     "start": 631,
+     "end": 671
+    },
+    {
+     "words": [
+      "bir",
+      "sebebi",
+      "de",
+      "bu."
+     ],
+     "start": 671,
+     "end": 712
+    }
+   ],
+   "words": [
+    {
+     "w": "Aynı",
+     "f": 591
+    },
+    {
+     "w": "gün",
+     "f": 601
+    },
+    {
+     "w": "doğan",
+     "f": 605
+    },
+    {
+     "w": "iki",
+     "f": 613
+    },
+    {
+     "w": "kişinin",
+     "f": 619
+    },
+    {
+     "w": "birbirine",
+     "f": 631
+    },
+    {
+     "w": "pek",
+     "f": 644
+    },
+    {
+     "w": "benzememesinin",
+     "f": 650
+    },
+    {
+     "w": "bir",
+     "f": 671
+    },
+    {
+     "w": "sebebi",
+     "f": 675
+    },
+    {
+     "w": "de",
+     "f": 685
+    },
+    {
+     "w": "bu.",
+     "f": 688
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "start": 717,
+   "end": 841,
+   "chunks": [
+    {
+     "words": [
+      "Güneş",
+      "doğarken",
+      "doğduysan,"
+     ],
+     "start": 717,
+     "end": 766
+    },
+    {
+     "words": [
+      "büyük",
+      "ihtimalle",
+      "yükselenin",
+      "de"
+     ],
+     "start": 766,
+     "end": 806
+    },
+    {
+     "words": [
+      "kendi",
+      "burcundur."
+     ],
+     "start": 806,
+     "end": 847
+    }
+   ],
+   "words": [
+    {
+     "w": "Güneş",
+     "f": 717
+    },
+    {
+     "w": "doğarken",
+     "f": 728
+    },
+    {
+     "w": "doğduysan,",
+     "f": 742
+    },
+    {
+     "w": "büyük",
+     "f": 766
+    },
+    {
+     "w": "ihtimalle",
+     "f": 774
+    },
+    {
+     "w": "yükselenin",
+     "f": 788
+    },
+    {
+     "w": "de",
+     "f": 803
+    },
+    {
+     "w": "kendi",
+     "f": 806
+    },
+    {
+     "w": "burcundur.",
+     "f": 815
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "start": 852,
+   "end": 905,
+   "chunks": [
+    {
+     "words": [
+      "Sen",
+      "burcuna",
+      "benziyor",
+      "musun?"
+     ],
+     "start": 852,
+     "end": 911
+    }
+   ],
+   "words": [
+    {
+     "w": "Sen",
+     "f": 852
+    },
+    {
+     "w": "burcuna",
+     "f": 860
+    },
+    {
+     "w": "benziyor",
+     "f": 871
+    },
+    {
+     "w": "musun?",
+     "f": 882
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "start": 916,
+   "end": 983,
+   "chunks": [
+    {
+     "words": [
+      "Burcunu",
+      "ve",
+      "doğum",
+      "saatini"
+     ],
+     "start": 916,
+     "end": 952
+    },
+    {
+     "words": [
+      "yorumlara",
+      "yaz."
+     ],
+     "start": 952,
+     "end": 989
+    }
+   ],
+   "words": [
+    {
+     "w": "Burcunu",
+     "f": 916
+    },
+    {
+     "w": "ve",
+     "f": 929
+    },
+    {
+     "w": "doğum",
+     "f": 932
+    },
+    {
+     "w": "saatini",
+     "f": 940
+    },
+    {
+     "w": "yorumlara",
+     "f": 952
+    },
+    {
+     "w": "yaz.",
+     "f": 966
+    }
+   ]
+  }
+ ]
+}

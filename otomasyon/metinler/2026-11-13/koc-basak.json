@@ -1,0 +1,138 @@
+{
+ "dateLabel": "13 Kasım 2026",
+ "coverDate": "13 Kasım 2026 · Cuma",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sabırsızlığın bugün yanlış anlaşılabilir; önce dinle, sonra konuş."
+    },
+    {
+     "label": "İş",
+     "text": "Beklediğin bir yanıt sonunda geliyor; hazırlıklı ol."
+    },
+    {
+     "label": "Enerji",
+     "text": "Hafta sonuna girmeden yorgunluğunu at; akşamı kendine ayır."
+    }
+   ],
+   "luckyColor": {
+    "name": "Mercan",
+    "hex": "#E8735A"
+   },
+   "luckyNumber": 7
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sevdiğin kişiyle sade bir plan, haftanın en güzel anı olabilir."
+    },
+    {
+     "label": "İş",
+     "text": "Bütçeyi bir kez daha gözden geçir; küçük bir kalem fark yaratır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Bedenin yavaşlamanı istiyor; ona kulak ver."
+    }
+   ],
+   "luckyColor": {
+    "name": "Toprak",
+    "hex": "#A0704A"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Uzun zamandır yazmadığın biri aklına geliyorsa, bir sebebi var."
+    },
+    {
+     "label": "İş",
+     "text": "İki işi aynı anda bitirmeye çalışma; önceliğini seç."
+    },
+    {
+     "label": "Enerji",
+     "text": "Zihnin dağınık; kısa bir yürüyüş seni toparlar."
+    }
+   ],
+   "luckyColor": {
+    "name": "Nane",
+    "hex": "#7FD1B9"
+   },
+   "luckyNumber": 5
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Hassasiyetin bugün güzel bir yakınlığa dönüşebilir."
+    },
+    {
+     "label": "İş",
+     "text": "Ev ile iş arasına sınır çizmek sana iyi gelecek."
+    },
+    {
+     "label": "Enerji",
+     "text": "Duygusal bir dalga gelebilir; kendine nazik ol."
+    }
+   ],
+   "luckyColor": {
+    "name": "İnci",
+    "hex": "#E9E4D8"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Gösterişli bir jest yerine samimi bir cümle daha etkili."
+    },
+    {
+     "label": "İş",
+     "text": "Emeğin görülüyor; takdiri kabul etmekten çekinme."
+    },
+    {
+     "label": "Enerji",
+     "text": "Güne yüksek başlıyorsun; öğleden sonra hızını ayarla."
+    }
+   ],
+   "luckyColor": {
+    "name": "Turuncu",
+    "hex": "#F28C28"
+   },
+   "luckyNumber": 1
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Mükemmel anı bekleme; bugün hissettiğini söyle."
+    },
+    {
+     "label": "İş",
+     "text": "Küçük bir hata büyük bir dersi getiriyor; panik yok."
+    },
+    {
+     "label": "Enerji",
+     "text": "Düzenli bir uyku bu hafta en büyük ilacın."
+    }
+   ],
+   "luckyColor": {
+    "name": "Adaçayı",
+    "hex": "#9CAF88"
+   },
+   "luckyNumber": 6
+  }
+ ]
+}

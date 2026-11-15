@@ -1,0 +1,13 @@
+{
+  "sign": "akrep",
+  "dateLabel": "6 Kasım",
+  "hook": "Bugün sezgilerin seni yanıltmayacak.",
+  "items": [
+    {"label": "Aşk", "text": "İçinde tuttuğun o sözü bugün söyle; karşılığını göreceksin."},
+    {"label": "İş", "text": "Ertelediğin işe sadece 20 dakika ayır. Gerisi kendiliğinden gelir."},
+    {"label": "Enerji", "text": "Akşamüstü yükseliyorsun. Önemli konuşmaları o saate bırak."}
+  ],
+  "luckyColor": {"name": "Bordo", "hex": "#7A1F3D"},
+  "luckyNumber": 8,
+  "cta": "Kendi doğum haritanı keşfet"
+}
