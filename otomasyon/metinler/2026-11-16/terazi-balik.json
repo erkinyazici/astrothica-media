@@ -1,0 +1,138 @@
+{
+ "dateLabel": "16 Kasım 2026",
+ "coverDate": "16 Kasım 2026 · Pazartesi",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ortada kalan bir soruyu bu akşam yumuşak bir dille sor."
+    },
+    {
+     "label": "İş",
+     "text": "Yazışmalarında üslubuna dikkat et; kısa mesajlar sert okunabilir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Renkli bir şey giy; aynadaki halin moralini yükseltir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Somon",
+    "hex": "#F08C74"
+   },
+   "luckyNumber": 12
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Geçmişi yeniden açmak yerine bugünkü haline odaklan."
+    },
+    {
+     "label": "İş",
+     "text": "Elindeki bilgiyi herkese açmadan önce zamanlamayı iyi seç."
+    },
+    {
+     "label": "Enerji",
+     "text": "Ağır düşünceleri yatmadan önce bir kâğıda yaz ve bırak."
+    }
+   ],
+   "luckyColor": {
+    "name": "Zümrüt",
+    "hex": "#1E8C5A"
+   },
+   "luckyNumber": 5
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Söz verdiğin bir buluşmayı ertelemek yerine kısa da olsa git."
+    },
+    {
+     "label": "İş",
+     "text": "Dağınık hedeflerinden birini seç ve bu hafta yalnız ona odaklan."
+    },
+    {
+     "label": "Enerji",
+     "text": "Merdivenleri kullan; küçük bir hareket bütün güne yayılır."
+    }
+   ],
+   "luckyColor": {
+    "name": "Petrol mavisi",
+    "hex": "#1F6F78"
+   },
+   "luckyNumber": 10
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "İş konuşmalarını sofraya taşıma; akşam yalnız ikinize ait."
+    },
+    {
+     "label": "İş",
+     "text": "Takvimine bu hafta boş bir saat ekle; acil işler oraya sığar."
+    },
+    {
+     "label": "Enerji",
+     "text": "Çenene ve alnına dikkat et; farkında olmadan sıkıyorsun."
+    }
+   ],
+   "luckyColor": {
+    "name": "Vişne",
+    "hex": "#8E1B2E"
+   },
+   "luckyNumber": 7
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Beklenmedik bir mesaja kısa da olsa içten bir cevap ver."
+    },
+    {
+     "label": "İş",
+     "text": "Aklındaki sıra dışı çözümü bir taslakla göster, sözle değil."
+    },
+    {
+     "label": "Enerji",
+     "text": "Bildirimleri öğlene kadar sustur; odağın sana geri döner."
+    }
+   ],
+   "luckyColor": {
+    "name": "Çivit mavisi",
+    "hex": "#3F51B5"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ne hissettiğini tahmin etmelerini bekleme; bir cümleyle anlat."
+    },
+    {
+     "label": "İş",
+     "text": "Dikkatin dağılırsa yapacaklarını kâğıda yaz, ekranda değil."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yanına bir şişe su al; gün içinde yudum yudum iç."
+    }
+   ],
+   "luckyColor": {
+    "name": "Akuamarin",
+    "hex": "#7FDBD4"
+   },
+   "luckyNumber": 6
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "dateLabel": "16 Kasım 2026",
+ "coverDate": "16 Kasım 2026 · Pazartesi",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Yoğun bir pazartesinde partnerine bir dakika ayırman yeter."
+    },
+    {
+     "label": "İş",
+     "text": "Pazartesi toplantısında ilk sözü almak sana puan kazandırır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kahveyi tazelemeden önce bir bardak su iç; baş ağrısı uzak durur."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kiraz",
+    "hex": "#B0123B"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sevgini cümleye dökmekte zorlanıyorsan sarılmak da bir dildir."
+    },
+    {
+     "label": "İş",
+     "text": "Yeni gelen iş teklifine hemen evet deme, bir gece düşün."
+    },
+    {
+     "label": "Enerji",
+     "text": "Rahat ayakkabılarını giy; bugün beklediğinden çok yürüyeceksin."
+    }
+   ],
+   "luckyColor": {
+    "name": "Yosun yeşili",
+    "hex": "#6B7F3A"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Esprilerin bugün birinin gününü güzelleştirecek, çekinme."
+    },
+    {
+     "label": "İş",
+     "text": "Gelen kutundaki en eski e-postayı yanıtlayarak güne başla."
+    },
+    {
+     "label": "Enerji",
+     "text": "Öğle yemeğini ekran karşısında yeme; ikinci yarı daha zinde geçer."
+    }
+   ],
+   "luckyColor": {
+    "name": "Şeftali",
+    "hex": "#F6B38E"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kırgın olduğun konuyu ima etmek yerine açıkça söyle."
+    },
+    {
+     "label": "İş",
+     "text": "Haftalık hedefini küçük tut; tamamladıkça motivasyonun artar."
+    },
+    {
+     "label": "Enerji",
+     "text": "Evde sevdiğin kokuyu yak; akşamın yorgunluğu daha çabuk geçer."
+    }
+   ],
+   "luckyColor": {
+    "name": "Gümüş",
+    "hex": "#C0C0C8"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Övgü beklemeden önce sen bir teşekkür et; karşılığı sıcak olur."
+    },
+    {
+     "label": "İş",
+     "text": "Sunacağın fikre somut bir örnek ekle; ikna etmek kolaylaşır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Gün ortasında pencereyi aç, beş dakika temiz hava al."
+    }
+   ],
+   "luckyColor": {
+    "name": "Hardal",
+    "hex": "#D4A017"
+   },
+   "luckyNumber": 8
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Planladığın akşam aksarsa dert etme; doğaçlama da tatlıdır."
+    },
+    {
+     "label": "İş",
+     "text": "Listedeki ilk üç maddeyi bitirince kendine kısa bir ara ver."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kalkar kalkmaz telefona uzanma; ilk on dakika senin olsun."
+    }
+   ],
+   "luckyColor": {
+    "name": "Çam yeşili",
+    "hex": "#2E6B4F"
+   },
+   "luckyNumber": 1
+  }
+ ]
+}
