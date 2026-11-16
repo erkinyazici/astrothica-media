@@ -1,0 +1,138 @@
+{
+ "dateLabel": "17 Kasım 2026",
+ "coverDate": "17 Kasım 2026 · Salı",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ortak bir çalma listesi hazırlayın; akşam birlikte dinleyin."
+    },
+    {
+     "label": "İş",
+     "text": "Kararını erteleme isteği geldiğinde kendine bir saat süre ver."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yeşil bir bitkinin yanında çalış; göz yorgunluğun azalır."
+    }
+   ],
+   "luckyColor": {
+    "name": "Mercan",
+    "hex": "#FF7F50"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sorgulamak yerine bugün sadece güven; o da bunu hissedecek."
+    },
+    {
+     "label": "İş",
+     "text": "Pazarlıkta ilk rakamı sen söyleme; önce karşını dinle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yoğun bir antrenman bugün içindeki fırtınayı dindirir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Mürdüm",
+    "hex": "#5C1A3B"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Gülüşün bugün bulaşıcı; tanımadığın biriyle sohbet açılabilir."
+    },
+    {
+     "label": "İş",
+     "text": "Yabancı dilde okuduğun bir makale işine yeni bir açı katar."
+    },
+    {
+     "label": "Enerji",
+     "text": "Dışarıda tempolu yürü; aklındaki soruların cevabı adımlarda."
+    }
+   ],
+   "luckyColor": {
+    "name": "Turuncu",
+    "hex": "#F28C28"
+   },
+   "luckyNumber": 6
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Programına onu da yaz; birlikte geçen yarım saat yeter."
+    },
+    {
+     "label": "İş",
+     "text": "Yaptığın işin değerini rakamlarla anlatmayı dene."
+    },
+    {
+     "label": "Enerji",
+     "text": "Sırtını dik tut; bütün gün masa başındaysan bu çok şey değiştirir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Antrasit",
+    "hex": "#383E42"
+   },
+   "luckyNumber": 1
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Tuhaf bulduğun huyunu ondan saklama; belki en çok onu seviyor."
+    },
+    {
+     "label": "İş",
+     "text": "Herkesin göz ardı ettiği bir aracı dene; işini hızlandırabilir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Gece gökyüzüne bak; bu hafta kayan yıldız görme şansın var."
+    }
+   ],
+   "luckyColor": {
+    "name": "Gümüş",
+    "hex": "#C0C0C8"
+   },
+   "luckyNumber": 7
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ona yazdığın kısa notu cebine ya da çantasına gizle."
+    },
+    {
+     "label": "İş",
+     "text": "Sezgine güven ama son kararı vermeden önce bir rakam iste."
+    },
+    {
+     "label": "Enerji",
+     "text": "Deniz kenarında ya da bir çeşme başında birkaç dakika otur."
+    }
+   ],
+   "luckyColor": {
+    "name": "Leylak",
+    "hex": "#C8A2C8"
+   },
+   "luckyNumber": 8
+  }
+ ]
+}

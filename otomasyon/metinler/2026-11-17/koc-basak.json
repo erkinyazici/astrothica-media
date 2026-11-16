@@ -1,0 +1,138 @@
+{
+ "dateLabel": "17 Kasım 2026",
+ "coverDate": "17 Kasım 2026 · Salı",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Salı akşamı için küçük bir plan yap; ona da sürpriz olsun."
+    },
+    {
+     "label": "İş",
+     "text": "Masandaki en sıkıcı işi öğleden önce hallet, rahatlarsın."
+    },
+    {
+     "label": "Enerji",
+     "text": "Asansörü beklerken omuzlarını birkaç kez geriye çevir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Nar kırmızısı",
+    "hex": "#C0392B"
+   },
+   "luckyNumber": 5
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Onun en sevdiği atıştırmalığı eve dönerken yanına al."
+    },
+    {
+     "label": "İş",
+     "text": "Fatura ve ödeme tarihlerini bugün takvimine işle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Akşam yemeğinden sonra mahallede kısa bir tur at."
+    }
+   ],
+   "luckyColor": {
+    "name": "Pudra pembesi",
+    "hex": "#E8B4B8"
+   },
+   "luckyNumber": 10
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sevdiği bir şeyi ona anlattır; dinlerken çok şey öğreneceksin."
+    },
+    {
+     "label": "İş",
+     "text": "Toplantı notlarını hemen paylaş; herkes aynı sayfada kalsın."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kulaklığı çıkar ve sokak seslerini dinleyerek yürü."
+    }
+   ],
+   "luckyColor": {
+    "name": "Limon sarısı",
+    "hex": "#F4E04D"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Eski bir sesli mesajı dinlemek yerine yeni bir tane gönder."
+    },
+    {
+     "label": "İş",
+     "text": "Sınırlarını nazikçe söyle; ek iş istemiyorsan hayır de."
+    },
+    {
+     "label": "Enerji",
+     "text": "Çorba pişir ya da birine ısmarla; içini ısıtan şeyi ara."
+    }
+   ],
+   "luckyColor": {
+    "name": "Açık mavi",
+    "hex": "#A7C7E7"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kalabalıkta da olsa yalnız ona dönüp göz kırp."
+    },
+    {
+     "label": "İş",
+     "text": "Başkasının başarısını herkesin önünde söyle; ekip sana yaklaşır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Saçını değiştirmek ya da yeni bir parfüm denemek moral verir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Altın",
+    "hex": "#D4AF37"
+   },
+   "luckyNumber": 12
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kusursuz bir mesaj yazmaya uğraşma; içten olan yeter."
+    },
+    {
+     "label": "İş",
+     "text": "Tablolardaki formülleri göndermeden önce bir kez daha kontrol et."
+    },
+    {
+     "label": "Enerji",
+     "text": "Dolabından bir rafı boşalt; zihnin de onunla hafifler."
+    }
+   ],
+   "luckyColor": {
+    "name": "Zeytin yeşili",
+    "hex": "#708238"
+   },
+   "luckyNumber": 4
+  }
+ ]
+}
