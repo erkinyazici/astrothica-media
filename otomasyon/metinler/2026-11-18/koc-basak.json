@@ -1,0 +1,138 @@
+{
+ "dateLabel": "18 Kasım 2026",
+ "coverDate": "18 Kasım 2026 · Çarşamba",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Çarşamba akşamı ona sevdiğin bir şarkının linkini gönder."
+    },
+    {
+     "label": "İş",
+     "text": "Toplantıya girmeden söyleyeceğin üç maddeyi netleştir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Şınav ya da mekik; on dakikalık hareket gerginliğini alır."
+    }
+   ],
+   "luckyColor": {
+    "name": "Gelincik kırmızısı",
+    "hex": "#E3242B"
+   },
+   "luckyNumber": 8
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Mutfakta birlikte bir tarif deneyin; tadı da sohbeti de güzel olur."
+    },
+    {
+     "label": "İş",
+     "text": "Uzun süredir ertelediğin bir evrak işini bugün tamamla."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yumuşak bir battaniye ve sıcak süt; bu akşam erken uzan."
+    }
+   ],
+   "luckyColor": {
+    "name": "Adaçayı yeşili",
+    "hex": "#9CAF88"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ona bugün gün içinde güldüğün küçük bir anı anlat."
+    },
+    {
+     "label": "İş",
+     "text": "Sekmeleri kapat; açık kalan yirmi pencere odağını bölüyor."
+    },
+    {
+     "label": "Enerji",
+     "text": "Bulmaca ya da sudoku çöz; zihnin oyunla dinlenir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Mandalina",
+    "hex": "#F28500"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kapıda onu karşılayıp uzun uzun sarıl; günün yükü hafifler."
+    },
+    {
+     "label": "İş",
+     "text": "Gelen bir eleştiriyi kişisel alma; işe dair olanı not et."
+    },
+    {
+     "label": "Enerji",
+     "text": "Fırından yeni çıkmış ekmek kokusu bile moralini düzeltir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Sedef",
+    "hex": "#EDE4DA"
+   },
+   "luckyNumber": 6
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Fotoğraf çekerken onu da kadraja al; ortak anılarınız çoğalsın."
+    },
+    {
+     "label": "İş",
+     "text": "Sunumundaki ilk cümleyi güçlendir; dikkat ilk anda kazanılır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Parlak bir ruj ya da şık bir saat; küçük detay keyfini yükseltir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Güneş sarısı",
+    "hex": "#FFC20E"
+   },
+   "luckyNumber": 1
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Yanlış anlaşılan bir sözü düzeltmek için bugün iyi bir gün."
+    },
+    {
+     "label": "İş",
+     "text": "E-posta kutunda klasör düzeni kur; aradığını saniyede bulursun."
+    },
+    {
+     "label": "Enerji",
+     "text": "Lavanta kokulu bir krem ellerine ve zihnine iyi gelir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Ceviz kahvesi",
+    "hex": "#6B4423"
+   },
+   "luckyNumber": 9
+  }
+ ]
+}

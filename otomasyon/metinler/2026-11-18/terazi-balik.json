@@ -1,0 +1,138 @@
+{
+ "dateLabel": "18 Kasım 2026",
+ "coverDate": "18 Kasım 2026 · Çarşamba",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Güzel bir kafede buluşun; ortam sohbetin tonunu yumuşatır."
+    },
+    {
+     "label": "İş",
+     "text": "Ekip içinde herkesin payını görünür kıl; adil olan rahatlatır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Akşam sevdiğin bir diziyi açıp kendini kanepeye bırak."
+    }
+   ],
+   "luckyColor": {
+    "name": "Gül kurusu",
+    "hex": "#C08081"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Bakışların bugün çok şey söylüyor; cümleyi de sen kur."
+    },
+    {
+     "label": "İş",
+     "text": "Gizli tuttuğun projeyi güvendiğin bir kişiyle paylaş."
+    },
+    {
+     "label": "Enerji",
+     "text": "Sıcak bir duş ve loş bir oda; bu gece kendini erken yatağa at."
+    }
+   ],
+   "luckyColor": {
+    "name": "Şarap kırmızısı",
+    "hex": "#722F37"
+   },
+   "luckyNumber": 10
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Hiç gitmediğiniz bir semtte birlikte akşam yürüyüşüne çıkın."
+    },
+    {
+     "label": "İş",
+     "text": "Yarım bıraktığın online dersin bir bölümünü bugün bitir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Bisiklete bin ya da uzun bir esneme yap; bedenin alan istiyor."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kiremit",
+    "hex": "#B5523B"
+   },
+   "luckyNumber": 7
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Onu dinlerken telefonu ters çevir; bu küçük hareket çok şey anlatır."
+    },
+    {
+     "label": "İş",
+     "text": "Bu ayki hedeflerine bak; hangisinin yarısındasın, işaretle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Boynunu sağa sola yavaşça esnet; masa başı tutulmasını unut."
+    }
+   ],
+   "luckyColor": {
+    "name": "Gece mavisi",
+    "hex": "#1B2A49"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Birlikte yeni bir oyun ya da uygulama deneyin; gülüp eğlenirsiniz."
+    },
+    {
+     "label": "İş",
+     "text": "Kimsenin sormadığı soruyu toplantıda sen sor."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yeni bir rota dene; işe giderken farklı bir yoldan geç."
+    }
+   ],
+   "luckyColor": {
+    "name": "Turkuaz",
+    "hex": "#30D5C8"
+   },
+   "luckyNumber": 12
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Dokunmak bazen sözden iyidir; bugün elini tutman yeter."
+    },
+    {
+     "label": "İş",
+     "text": "Sabah ilk saatte en yaratıcı işini yap, öğleden sonra rutine geç."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yağmur ya da dalga sesi açıp gözlerini birkaç dakika kapat."
+    }
+   ],
+   "luckyColor": {
+    "name": "Okyanus mavisi",
+    "hex": "#1F6F8B"
+   },
+   "luckyNumber": 5
+  }
+ ]
+}
