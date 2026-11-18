@@ -1,0 +1,138 @@
+{
+ "dateLabel": "19 Kasım 2026",
+ "coverDate": "19 Kasım 2026 · Perşembe",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kompliman yap ama içten olsun; bugün en çok bu kalpleri açar."
+    },
+    {
+     "label": "İş",
+     "text": "Anlaşmazlıkta iki tarafı da dinle, sonra ortak noktayı yaz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Çiçekçiye uğra ve masana tek bir dal çiçek koy."
+    }
+   ],
+   "luckyColor": {
+    "name": "Lavanta",
+    "hex": "#B57EDC"
+   },
+   "luckyNumber": 7
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sır gibi sakladığın bir duyguyu bu gece ona fısılda."
+    },
+    {
+     "label": "İş",
+     "text": "Araştırmanı derinleştir; yüzeyde kalan detay seni yavaşlatır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Sauna, hamam ya da sıcak bir küvet; bedenin yeniden toparlansın."
+    }
+   ],
+   "luckyColor": {
+    "name": "Gece moru",
+    "hex": "#3B1F5C"
+   },
+   "luckyNumber": 6
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Hayalindeki seyahati ona anlat; belki rotayı birlikte çizersiniz."
+    },
+    {
+     "label": "İş",
+     "text": "Kitapçıda işinle ilgili raflara göz gezdir; ilham orada olabilir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Rüzgârlı da olsa parka git, birkaç tur at ve derin nefes al."
+    }
+   ],
+   "luckyColor": {
+    "name": "Safir",
+    "hex": "#0F52BA"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sakin bir akşam yemeği, yavaş bir sohbet; bugün ikinize bu yeter."
+    },
+    {
+     "label": "İş",
+     "text": "Geçen haftaki başarını küçümseme; özgeçmişine şimdiden ekle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Ayaklarını ılık suya koy, günün yorgunluğu oradan aksın."
+    }
+   ],
+   "luckyColor": {
+    "name": "Orman yeşili",
+    "hex": "#228B22"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Planı tersine çevirin: tatlıyla başlayın, yemeği sonra yiyin."
+    },
+    {
+     "label": "İş",
+     "text": "Otomatikleştirebileceğin tekrarlayan bir işi bul ve kurtul."
+    },
+    {
+     "label": "Enerji",
+     "text": "Garip bir hobiye bugün beş dakika ayır; merakın seni dinlendirir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Elektrik moru",
+    "hex": "#8F00FF"
+   },
+   "luckyNumber": 1
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Rüya gibi bir an yarat; mum ışığında sakin bir müzik açın."
+    },
+    {
+     "label": "İş",
+     "text": "Resim, müzik ya da yazı; yaratıcı yanını bugün işine kat."
+    },
+    {
+     "label": "Enerji",
+     "text": "Nefesini say: dört içeri, dört dışarı; birkaç turda sakinleşirsin."
+    }
+   ],
+   "luckyColor": {
+    "name": "Mor salkım",
+    "hex": "#C9A0DC"
+   },
+   "luckyNumber": 10
+  }
+ ]
+}

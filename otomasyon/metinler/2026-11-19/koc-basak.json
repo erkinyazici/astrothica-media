@@ -1,0 +1,138 @@
+{
+ "dateLabel": "19 Kasım 2026",
+ "coverDate": "19 Kasım 2026 · Perşembe",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Cesur bir adım at; aklındaki daveti bu akşam yüksek sesle söyle."
+    },
+    {
+     "label": "İş",
+     "text": "Perşembe öğleden önce bekleyen telefonu aç, işi uzatma."
+    },
+    {
+     "label": "Enerji",
+     "text": "İpe atla ya da yerinde zıpla; fazla enerjin boşalsın."
+    }
+   ],
+   "luckyColor": {
+    "name": "Domates kırmızısı",
+    "hex": "#FF6347"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Yan yana oturup eski fotoğraflarınıza bakın; gülümseten çok şey var."
+    },
+    {
+     "label": "İş",
+     "text": "Bütçe tablonu aç ve bu ay nereye harcadığını sakince gözden geçir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yastığını havalandır, çarşafı değiştir; temiz yatakta uyku başka."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kestane",
+    "hex": "#954535"
+   },
+   "luckyNumber": 6
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Mesajlaşırken soru sor; merakın aranızdaki sohbeti canlandırır."
+    },
+    {
+     "label": "İş",
+     "text": "Kısa bir beyin fırtınası yap; aklına gelen her fikri not al."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yeni bir kelime öğren ve gün içinde üç kez kullanmayı dene."
+    }
+   ],
+   "luckyColor": {
+    "name": "Çiçek mavisi",
+    "hex": "#6495ED"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Film gecesi yapın; ışıkları kısın, patlamış mısırı ikiye bölün."
+    },
+    {
+     "label": "İş",
+     "text": "Danışmak istediğin konuyu deneyimli bir iş arkadaşına aç."
+    },
+    {
+     "label": "Enerji",
+     "text": "Ihlamur demle ve pencerenin önünde yavaş yavaş yudumla."
+    }
+   ],
+   "luckyColor": {
+    "name": "Fildişi",
+    "hex": "#FFFFF0"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Bu akşam en sevdiğin kıyafeti giy ve onu yemeğe sen davet et."
+    },
+    {
+     "label": "İş",
+     "text": "Toplantıda dağılan konuyu toparlayan sen ol; ekip sana bakıyor."
+    },
+    {
+     "label": "Enerji",
+     "text": "Aynada kendine gülümse ve güne başlarken omuzlarını dikleştir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Ayçiçeği",
+    "hex": "#FFDA03"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Onun için yaptığın küçük bir iyiliği söylemeden bırak; fark eder."
+    },
+    {
+     "label": "İş",
+     "text": "Yarın için üç maddelik bir liste hazırla; sabah hızlı başlarsın."
+    },
+    {
+     "label": "Enerji",
+     "text": "Mevsim sebzeleriyle hafif bir akşam yemeği hazırla."
+    }
+   ],
+   "luckyColor": {
+    "name": "Taş grisi",
+    "hex": "#8A8D8F"
+   },
+   "luckyNumber": 12
+  }
+ ]
+}
