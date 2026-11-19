@@ -1,0 +1,138 @@
+{
+ "dateLabel": "20 Kasım 2026",
+ "coverDate": "20 Kasım 2026 · Cuma",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Rezervasyonu sen yap; cuma akşamı nereye gideceğinizi o bilmesin."
+    },
+    {
+     "label": "İş",
+     "text": "Haftayı kapatmadan yarım kalan dosyayı teslim et, rahat çık."
+    },
+    {
+     "label": "Enerji",
+     "text": "Boks videosu aç ve on dakika havaya yumruk at; stres dağılsın."
+    }
+   ],
+   "luckyColor": {
+    "name": "Ateş turuncusu",
+    "hex": "#E25822"
+   },
+   "luckyNumber": 8
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ev yapımı bir kurabiye ona alacağın her hediyeden tatlı gelir."
+    },
+    {
+     "label": "İş",
+     "text": "Pazartesiye kalan işi bir post-it'e yaz ve ekrana yapıştır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yün çoraplarını giy ve akşamı kanepede ağır ağır geçir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kakao",
+    "hex": "#7B3F00"
+   },
+   "luckyNumber": 5
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Komik bir video gönder ve altına ikinizin iç şakasını yaz."
+    },
+    {
+     "label": "İş",
+     "text": "Toplantıda kısa ve net konuş; herkesin aklı hafta sonunda."
+    },
+    {
+     "label": "Enerji",
+     "text": "Tabu ya da kart oyunu; akşamı biraz rekabetle renklendir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kayısı",
+    "hex": "#FBCEB1"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Battaniyenin altında uzun bir sohbet; bu akşam başka plan gerekmez."
+    },
+    {
+     "label": "İş",
+     "text": "Ekip arkadaşına bu haftaki yardımı için kısa bir teşekkür yaz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Odaya küçük bir lamba ekle; sarı ışık içini yumuşatır."
+    }
+   ],
+   "luckyColor": {
+    "name": "Pudra mavisi",
+    "hex": "#B0E0E6"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Masayı sen kur, mumu sen yak; bu akşam ev sahibi sensin."
+    },
+    {
+     "label": "İş",
+     "text": "Haftanın kazanımlarını ekibe tek mesajla özetle; görünür ol."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kendini şımart: sevdiğin kafede tek başına bir tatlı ısmarla."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kehribar",
+    "hex": "#FFBF00"
+   },
+   "luckyNumber": 10
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Onu yorgun gördüğünde soru sorma, çayını demle ve yanına otur."
+    },
+    {
+     "label": "İş",
+     "text": "Yaptığın işi cuma akşamı kontrol etme; gözün pazartesi daha net görür."
+    },
+    {
+     "label": "Enerji",
+     "text": "Öğle arasında masadan kalk ve binanın çevresinde bir tur at."
+    }
+   ],
+   "luckyColor": {
+    "name": "Fındık kahvesi",
+    "hex": "#8B6C42"
+   },
+   "luckyNumber": 6
+  }
+ ]
+}

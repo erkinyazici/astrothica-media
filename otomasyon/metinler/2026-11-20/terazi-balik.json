@@ -1,0 +1,138 @@
+{
+ "dateLabel": "20 Kasım 2026",
+ "coverDate": "20 Kasım 2026 · Cuma",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kararı ona bırak: film mi, yürüyüş mü? Sen sadece eşlik et."
+    },
+    {
+     "label": "İş",
+     "text": "Yorumları tek belgede topla; son halini sen ver, herkes rahatlar."
+    },
+    {
+     "label": "Enerji",
+     "text": "Pastel bir mum yak ve sevdiğin parfümü bileğine sür."
+    }
+   ],
+   "luckyColor": {
+    "name": "Şeftali",
+    "hex": "#FFDAB9"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Gece yarısı uzun bir sohbete hazır ol; derin konular açılabilir."
+    },
+    {
+     "label": "İş",
+     "text": "Sözleşme ya da teklif metnini imzalamadan önce satır satır oku."
+    },
+    {
+     "label": "Enerji",
+     "text": "Bitter çikolatadan bir kare al, sessiz bir köşede tadını çıkar."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kan kırmızısı",
+    "hex": "#8A0303"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Dünya mutfaklarından birini birlikte keşfedin; bu akşam Peru olsun."
+    },
+    {
+     "label": "İş",
+     "text": "Öğrendiğin bir kısayolu ekiple paylaş; herkes biraz zaman kazanır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Cuma akşamı canlı müzik çalan bir mekâna uğra, ritme kapıl."
+    }
+   ],
+   "luckyColor": {
+    "name": "Menekşe",
+    "hex": "#7F00FF"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sen anlatırken onun haftası nasıl geçti, sormayı unutma."
+    },
+    {
+     "label": "İş",
+     "text": "Haftalık raporunu öğleden önce bitir; cumayı erken kapatmayı hak ettin."
+    },
+    {
+     "label": "Enerji",
+     "text": "Omuzlarına sıcak bir havlu koy; haftanın gerginliği çözülsün."
+    }
+   ],
+   "luckyColor": {
+    "name": "Füme",
+    "hex": "#4B4F54"
+   },
+   "luckyNumber": 8
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Planetaryumda ya da bir bilim müzesinde buluşmayı öner."
+    },
+    {
+     "label": "İş",
+     "text": "Masaüstünü sadeleştir; kullanmadığın uygulamaları kaldır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Denemediğin bir egzersiz videosunu aç, beş dakika eşlik et."
+    }
+   ],
+   "luckyColor": {
+    "name": "Neon mavi",
+    "hex": "#1F51FF"
+   },
+   "luckyNumber": 7
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kâğıda acemice bir çizim yap ve ona hediye et; gülüşü garanti."
+    },
+    {
+     "label": "İş",
+     "text": "Sesli not al; yolda aklına gelen fikirler kaybolmasın."
+    },
+    {
+     "label": "Enerji",
+     "text": "Pencereden Ay'a bak; bu hafta dolunaya doğru büyüyor."
+    }
+   ],
+   "luckyColor": {
+    "name": "Deniz köpüğü",
+    "hex": "#93E9BE"
+   },
+   "luckyNumber": 12
+  }
+ ]
+}
