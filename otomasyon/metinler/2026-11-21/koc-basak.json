@@ -1,0 +1,138 @@
+{
+ "dateLabel": "21 Kasım 2026",
+ "coverDate": "21 Kasım 2026 · Cumartesi",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Cumartesi sabahı kahvaltıyı ona yatakta servis et; gün güzel açılsın."
+    },
+    {
+     "label": "İş",
+     "text": "Yan projen için bugün bir saat ayır; kimse araya girmeden."
+    },
+    {
+     "label": "Enerji",
+     "text": "Halı saha maçına katıl ya da arkadaşlarınla basket oyna."
+    }
+   ],
+   "luckyColor": {
+    "name": "Lav kırmızısı",
+    "hex": "#CF1020"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Semt pazarında birlikte meyve seçin; dönüşte sıcak simit alın."
+    },
+    {
+     "label": "İş",
+     "text": "Hafta sonu iş e-postalarına bakma; cevaplar pazartesiyi bekler."
+    },
+    {
+     "label": "Enerji",
+     "text": "Öğlen biraz kestir; yoğun bir haftadan sonra bedenin bunu hak etti."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kum beji",
+    "hex": "#C2B280"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sahafta birlikte dolaşın; ona en komik kitap adını bulup göster."
+    },
+    {
+     "label": "İş",
+     "text": "Çevrim içi bir atölyeye göz at; öğrenmek istediğin beceri orada."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kalabalık bir kahvaltı masası kur; sohbet ve kahkaha seni şarj eder."
+    }
+   ],
+   "luckyColor": {
+    "name": "Akuamarin",
+    "hex": "#7FFFD4"
+   },
+   "luckyNumber": 5
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ailenle bir öğle yemeği planla ve onu da sofraya çağır."
+    },
+    {
+     "label": "İş",
+     "text": "Evden çalışıyorsan bugün bilgisayarı kapalı tut; mesai pazartesi."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kış battaniyelerini çıkar ve yatağını sıcacık bir yuvaya çevir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Buz beyazı",
+    "hex": "#E8F1F2"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Onu karaoke gecesine götür; en iddialı şarkıyı sen seç."
+    },
+    {
+     "label": "İş",
+     "text": "Kişisel sayfan için yeni ve güzel bir profil fotoğrafı çektir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Sevdiğin bir konsere ya da tiyatroya bilet al; sahne seni besler."
+    }
+   ],
+   "luckyColor": {
+    "name": "Yaldız",
+    "hex": "#D4AF37"
+   },
+   "luckyNumber": 1
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ev işlerini ikiye bölün; kalan bütün vakit yalnızca ikinizin."
+    },
+    {
+     "label": "İş",
+     "text": "Okuma listendeki iş kitabından birkaç sayfa oku, gerisi dinlenmek."
+    },
+    {
+     "label": "Enerji",
+     "text": "Tarçınlı bir kek pişir; mutfaktan yayılan koku bütün evi ısıtır."
+    }
+   ],
+   "luckyColor": {
+    "name": "Mantar",
+    "hex": "#B8A99A"
+   },
+   "luckyNumber": 7
+  }
+ ]
+}

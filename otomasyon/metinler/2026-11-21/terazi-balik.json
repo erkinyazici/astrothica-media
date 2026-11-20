@@ -1,0 +1,138 @@
+{
+ "dateLabel": "21 Kasım 2026",
+ "coverDate": "21 Kasım 2026 · Cumartesi",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Şık giyinin ve hiçbir sebep yokken güzel bir restorana gidin."
+    },
+    {
+     "label": "İş",
+     "text": "Portfolyonu güncelle; son işlerin hak ettiği vitrine kavuşsun."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yüz maskesi ve sakin bir müzik; cumartesi öğleden sonrası senin."
+    }
+   ],
+   "luckyColor": {
+    "name": "Ortanca mavisi",
+    "hex": "#9AA9D9"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Polisiye bir dizi açın; katili ilk kim bulacak, iddiaya girin."
+    },
+    {
+     "label": "İş",
+     "text": "Rakiplerinin ne yaptığına sakin kafayla bak ve not çıkar."
+    },
+    {
+     "label": "Enerji",
+     "text": "Koyu bir kahve, kalın bir roman ve pencere kenarında bir koltuk."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kuzgun siyahı",
+    "hex": "#1C1C24"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Yarın Güneş burcuna geçiyor; sevdiğinle kutlamaya bu akşam başla."
+    },
+    {
+     "label": "İş",
+     "text": "Şehir dışındaki bir fuar ya da etkinlik için şimdiden plan yap."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yakındaki bir ormanda yürü; çam kokusu bütün haftayı unutturur."
+    }
+   ],
+   "luckyColor": {
+    "name": "Tarçın",
+    "hex": "#D2691E"
+   },
+   "luckyNumber": 12
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Saatine bakmadan bütün öğleden sonrayı onunla geçir."
+    },
+    {
+     "label": "İş",
+     "text": "Akıl danıştığın birine kahve ısmarla; bir sohbet yol gösterir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Spor salonu yerine bugün yüzmeye git; kasların gevşesin."
+    }
+   ],
+   "luckyColor": {
+    "name": "Granit",
+    "hex": "#676767"
+   },
+   "luckyNumber": 6
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Hayvan barınağına birlikte gidin; kalpleriniz aynı yerde ısınsın."
+    },
+    {
+     "label": "İş",
+     "text": "Kafandaki uygulama fikrini kâğıda çiz; ekranı bugün düşünme."
+    },
+    {
+     "label": "Enerji",
+     "text": "Bilim kurgu bir film aç, patlamış mısırı unutma; zihnin uzaya çıksın."
+    }
+   ],
+   "luckyColor": {
+    "name": "Metalik mavi",
+    "hex": "#32527B"
+   },
+   "luckyNumber": 10
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sahilde el ele yürüyün; bazen konuşmadan da anlaşırsınız."
+    },
+    {
+     "label": "İş",
+     "text": "Müze ya da galeri gez; gördüğün renkler işine ilham olur."
+    },
+    {
+     "label": "Enerji",
+     "text": "Akşam ılık bir banyo yap ve suya bir avuç deniz tuzu ekle."
+    }
+   ],
+   "luckyColor": {
+    "name": "Lotus pembesi",
+    "hex": "#E7A9C3"
+   },
+   "luckyNumber": 8
+  }
+ ]
+}
