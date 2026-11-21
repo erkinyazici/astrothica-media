@@ -1,0 +1,138 @@
+{
+ "dateLabel": "22 Kasım 2026",
+ "coverDate": "22 Kasım 2026 · Pazar",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Bowling salonunda bir maç yapın; kaybeden akşam çayını demlesin."
+    },
+    {
+     "label": "İş",
+     "text": "Yarının ilk toplantısı için tek cümlelik hedefini şimdiden yaz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Tırmanış duvarını ya da uzun bir koşu parkurunu bugün dene."
+    }
+   ],
+   "luckyColor": {
+    "name": "Mercan",
+    "hex": "#FF7F50"
+   },
+   "luckyNumber": 6
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kestane kebap alıp parkta ya da sahilde birlikte yürüyün."
+    },
+    {
+     "label": "İş",
+     "text": "Önümüzdeki haftanın harcamalarını kabaca not al; sürpriz azalır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Saksıdaki bitkilerin toprağını havalandır, sararan yaprakları ayıkla."
+    }
+   ],
+   "luckyColor": {
+    "name": "Zeytin yeşili",
+    "hex": "#708238"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Televizyonda bilgi yarışması açın; ilk bilen akşam yemeğini seçsin."
+    },
+    {
+     "label": "İş",
+     "text": "Pazartesi sabahı ilk yanıtlayacağın üç mesajı şimdiden işaretle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Salı günü dolunay senin burcunda; bu iki günü biraz ağırdan al."
+    }
+   ],
+   "luckyColor": {
+    "name": "Nane yeşili",
+    "hex": "#98FF98"
+   },
+   "luckyNumber": 10
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Büyükannenden kalan bir yemeği ona pişir ve hikâyesini anlat."
+    },
+    {
+     "label": "İş",
+     "text": "Çantanı ve yarınki kıyafetini akşamdan hazırla; sabah telaşı olmaz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Pijamalarını çıkarma; bugün evde tembellik etmek serbest."
+    }
+   ],
+   "luckyColor": {
+    "name": "İnci grisi",
+    "hex": "#D6D3CC"
+   },
+   "luckyNumber": 8
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Mutfakta müziği aç ve onu bir dansa kaldır; bulaşık bekleyebilir."
+    },
+    {
+     "label": "İş",
+     "text": "Kendi markan için bir fikir defteri aç; ilk sayfaya üç hedef yaz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yay sezonu başladı; bugün seni en çok güldüren insanlarla buluş."
+    }
+   ],
+   "luckyColor": {
+    "name": "Bal rengi",
+    "hex": "#E3A857"
+   },
+   "luckyNumber": 12
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Haftanın yemek planını birlikte yapın; listeye onun isteğini de ekle."
+    },
+    {
+     "label": "İş",
+     "text": "Şifrelerini güvenli bir uygulamada topla; aramaktan kurtul."
+    },
+    {
+     "label": "Enerji",
+     "text": "Uzun bir öğle yürüyüşünde telefonunla sonbahar renklerini yakala."
+    }
+   ],
+   "luckyColor": {
+    "name": "Adaçayı yeşili",
+    "hex": "#9CAF88"
+   },
+   "luckyNumber": 3
+  }
+ ]
+}

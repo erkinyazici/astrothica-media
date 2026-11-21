@@ -1,0 +1,138 @@
+{
+ "dateLabel": "22 Kasım 2026",
+ "coverDate": "22 Kasım 2026 · Pazar",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Pazar brunch'ı için en güzel tabakları çıkarın; masayı birlikte kurun."
+    },
+    {
+     "label": "İş",
+     "text": "Tasarım ya da sunum fikirlerin için bir ilham panosu oluştur."
+    },
+    {
+     "label": "Enerji",
+     "text": "Arkadaşınla bir sergi gez, çıkışta keyifli bir kahve molası ver."
+    }
+   ],
+   "luckyColor": {
+    "name": "Leylak",
+    "hex": "#C8A2C8"
+   },
+   "luckyNumber": 5
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Yalnızca ikinizin bildiği bir şarkıyı açın ve ışıkları kısın."
+    },
+    {
+     "label": "İş",
+     "text": "Gelecek ayın hedeflerini kimseye göstermeden defterine yaz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Güneş burcundan ayrıldı; doğum günü sezonunu sakin bir akşamla uğurla."
+    }
+   ],
+   "luckyColor": {
+    "name": "Bordo",
+    "hex": "#800020"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sezonun açıldı; bu akşam onu en sevdiğin mekâna götür, hesap senden."
+    },
+    {
+     "label": "İş",
+     "text": "Aralık gelmeden yılın kalan hedeflerini kısa bir listeye dök."
+    },
+    {
+     "label": "Enerji",
+     "text": "Şehrin dışına kısa bir gezi yap; açık hava sana nefes aldırır."
+    }
+   ],
+   "luckyColor": {
+    "name": "Turkuaz",
+    "hex": "#40E0D0"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kahvaltıyı uzatın; gazetenin bulmacasını birlikte çözün."
+    },
+    {
+     "label": "İş",
+     "text": "Yeni haftanın en önemli işini takvimde sabah saatine yerleştir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Akşamüstü kısa bir yoga akışı yap; sırtın sana teşekkür edecek."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kömür grisi",
+    "hex": "#36454F"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Balkona çıkın ve bir uygulamayla birlikte takımyıldızı arayın."
+    },
+    {
+     "label": "İş",
+     "text": "Merak ettiğin bir yazılım aracının kısa eğitim videosunu izle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Daha önce gitmediğin bir semtte kahve iç; yeni sokaklar seni açar."
+    }
+   ],
+   "luckyColor": {
+    "name": "Gök mavisi",
+    "hex": "#87CEEB"
+   },
+   "luckyNumber": 1
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Birlikte eski bir çizgi film açın; çocukluğunuzu karşılaştırın."
+    },
+    {
+     "label": "İş",
+     "text": "Aklındaki hikâyeyi ya da tasarımı bugün kaba bir taslağa dök."
+    },
+    {
+     "label": "Enerji",
+     "text": "Akvaryum ya da sahil; suyun yanında geçen bir saat seni dinlendirir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Deniz mavisi",
+    "hex": "#006994"
+   },
+   "luckyNumber": 7
+  }
+ ]
+}
