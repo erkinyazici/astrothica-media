@@ -1,0 +1,138 @@
+{
+ "dateLabel": "23 Kasım 2026",
+ "coverDate": "23 Kasım 2026 · Pazartesi",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Haftanın ortasına küçük bir buluşma planla, yeri o seçsin."
+    },
+    {
+     "label": "İş",
+     "text": "Ekipteki küçük bir gerginlikte arabulucu sen ol; dengeyi kurarsın."
+    },
+    {
+     "label": "Enerji",
+     "text": "Gardırobundan iki parçayı yeni bir şekilde birleştir, öyle çık."
+    }
+   ],
+   "luckyColor": {
+    "name": "Pembe kuvars",
+    "hex": "#F7CAC9"
+   },
+   "luckyNumber": 12
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ona merak ettiğin bir soruyu sor, cevabı sözünü kesmeden dinle."
+    },
+    {
+     "label": "İş",
+     "text": "Yeni başlayan bir çalışma arkadaşına işin püf noktalarını öğret."
+    },
+    {
+     "label": "Enerji",
+     "text": "Spor salonunda bugün ağırlık yerine yüzmeyi ya da boksu dene."
+    }
+   ],
+   "luckyColor": {
+    "name": "Patlıcan moru",
+    "hex": "#614051"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Hafta sonu için ona sürpriz bir rota öner; bileti sen ayarla."
+    },
+    {
+     "label": "İş",
+     "text": "Yurt dışındaki bir müşteriye ya da eski bağlantına selam gönder."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kulaklığını tak, bir durak erken inip yolun kalanını yürü."
+    }
+   ],
+   "luckyColor": {
+    "name": "Hardal",
+    "hex": "#E1AD01"
+   },
+   "luckyNumber": 8
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Yoğun günün ortasında ona sadece 'seni düşündüm' yaz."
+    },
+    {
+     "label": "İş",
+     "text": "Hedeflerini üç maddeye indir, kâğıdı ekranının kenarına yapıştır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Bu akşam ekranları erken kapat ve kitabınla yatağa gir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Lacivert",
+    "hex": "#1F2A5A"
+   },
+   "luckyNumber": 1
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Bir belgesel seçin; bitince en çok neye şaşırdığınızı konuşun."
+    },
+    {
+     "label": "İş",
+     "text": "Ekipte kimsenin denemediği bir çözümü küçük ölçekte test et."
+    },
+    {
+     "label": "Enerji",
+     "text": "Gönüllü olabileceğin bir derneğe göz at; iyilik iyi gelir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Buz mavisi",
+    "hex": "#A5D8F3"
+   },
+   "luckyNumber": 10
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "El yazısıyla kısa bir not yaz, ceketinin cebine gizle."
+    },
+    {
+     "label": "İş",
+     "text": "Hayal ettiğin projenin ilk adımını bugün küçük de olsa at."
+    },
+    {
+     "label": "Enerji",
+     "text": "Uzun bir duşun ardından lavanta kokulu bir mum yak, dinlen."
+    }
+   ],
+   "luckyColor": {
+    "name": "Su yeşili",
+    "hex": "#66CDAA"
+   },
+   "luckyNumber": 6
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "dateLabel": "23 Kasım 2026",
+ "coverDate": "23 Kasım 2026 · Pazartesi",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "İşten dönerken ona sesli mesaj bırak; gününü merak ettiğini göster."
+    },
+    {
+     "label": "İş",
+     "text": "Ekip sohbetinde haftanın hedefini ilk sen paylaş, tempo sende olsun."
+    },
+    {
+     "label": "Enerji",
+     "text": "Merdivenleri tercih et; asansörü bu hafta unutmaya çalış."
+    }
+   ],
+   "luckyColor": {
+    "name": "Yakut",
+    "hex": "#E0115F"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Mahalle fırınından sıcak simit alıp onun kapısına bırak."
+    },
+    {
+     "label": "İş",
+     "text": "Ödemesi yaklaşan faturaları takvimine hatırlatıcı olarak ekle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Ayakkabılarını boya, montunu fırçala; düzenli bir dolap moral verir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Toprak rengi",
+    "hex": "#8B5A2B"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Dolunay öncesi içinden geçenleri bir kâğıda dök; yarın ona oku."
+    },
+    {
+     "label": "İş",
+     "text": "Bugünkü sunumda bir esprin olsun; salonu ısıtmak senin işin."
+    },
+    {
+     "label": "Enerji",
+     "text": "Podcast listene yeni bir dil dersi ekle, yolda dinle."
+    }
+   ],
+   "luckyColor": {
+    "name": "Fıstık yeşili",
+    "hex": "#93C572"
+   },
+   "luckyNumber": 7
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "En çok özlediğin kişiyi ara; haftanın ilk telefonu senden gelsin."
+    },
+    {
+     "label": "İş",
+     "text": "Mesai bitince iş bildirimlerini kapat; ev ile iş arasına sınır koy."
+    },
+    {
+     "label": "Enerji",
+     "text": "Sıcak bir mercimek çorbası pişir, yanına limon sıkmayı unutma."
+    }
+   ],
+   "luckyColor": {
+    "name": "Lavanta grisi",
+    "hex": "#C4C3D0"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "İçten bir iltifatla güne başla; kıyafetini fark ettiğini söyle."
+    },
+    {
+     "label": "İş",
+     "text": "Yaptığın işi görünür kıl; bitirdiğin görevi ekiple paylaş."
+    },
+    {
+     "label": "Enerji",
+     "text": "Akşam aynanın karşısında sevdiğin bir şarkıyı yüksek sesle söyle."
+    }
+   ],
+   "luckyColor": {
+    "name": "Bronz",
+    "hex": "#CD7F32"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Evdeki bozuk musluğu ya da gıcırdayan kapıyı birlikte tamir edin."
+    },
+    {
+     "label": "İş",
+     "text": "Bilgisayarının masaüstündeki dosyaları klasörlere ayır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Boynunu ve omuzlarını gevşeten kısa bir esneme yap, ekrandan uzaklaş."
+    }
+   ],
+   "luckyColor": {
+    "name": "Haki",
+    "hex": "#8F8C5A"
+   },
+   "luckyNumber": 5
+  }
+ ]
+}
