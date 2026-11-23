@@ -1,0 +1,138 @@
+{
+ "dateLabel": "24 Kasım 2026",
+ "coverDate": "24 Kasım 2026 · Salı",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Dolunay akşamı ona kısa bir yürüyüş teklif et, telefonlar cepte."
+    },
+    {
+     "label": "İş",
+     "text": "Toplantıda söz almadan önce notlarına iki saniye göz at."
+    },
+    {
+     "label": "Enerji",
+     "text": "Squash raketini ya da futbol topunu çıkar; bugün ter atma günü."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kiraz kırmızısı",
+    "hex": "#D2042D"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Elinle ördüğün ya da özenle seçtiğin bir atkıyı ona hediye et."
+    },
+    {
+     "label": "İş",
+     "text": "Abonelik listene göz at; kullanmadığın birini bugün iptal et."
+    },
+    {
+     "label": "Enerji",
+     "text": "Çıplak ayakla halıda biraz dolaş, sonra ayaklarını ılık suya koy."
+    }
+   ],
+   "luckyColor": {
+    "name": "Yosun yeşili",
+    "hex": "#8A9A5B"
+   },
+   "luckyNumber": 6
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Bu gece Ay senin burcunda doluyor; içini dökmek için iyi bir akşam."
+    },
+    {
+     "label": "İş",
+     "text": "Sesli düşünmek sana iyi gelir; fikrini bir arkadaşa anlatarak geliştir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kafandaki kalabalığı susturmak için deftere üç satır karala."
+    }
+   ],
+   "luckyColor": {
+    "name": "Gümüş",
+    "hex": "#C0C0C0"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sevdiğinle eski fotoğraflara bakın, en komiğini duvar kâğıdı yap."
+    },
+    {
+     "label": "İş",
+     "text": "Çalışma köşene sevdiğin bir fotoğraf koy, gün daha yumuşak geçer."
+    },
+    {
+     "label": "Enerji",
+     "text": "Ellerine sevdiğin bir kremle yavaşça masaj yap, acele etme."
+    }
+   ],
+   "luckyColor": {
+    "name": "Opal",
+    "hex": "#A8C3BC"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ona bugün neden hayran olduğunu açık açık, yüzüne karşı söyle."
+    },
+    {
+     "label": "İş",
+     "text": "Sunumunda en güçlü cümleyi sona sakla, etkisi orada büyür."
+    },
+    {
+     "label": "Enerji",
+     "text": "Saçına ya da tarzına küçük bir değişiklik yap, aynada gülümse."
+    }
+   ],
+   "luckyColor": {
+    "name": "Safran",
+    "hex": "#F4C430"
+   },
+   "luckyNumber": 5
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Tartışmada haklı olsan bile bugün bir adım geri dur."
+    },
+    {
+     "label": "İş",
+     "text": "Masandaki kâğıtları üç yığına ayır: at, sakla, hemen yap."
+    },
+    {
+     "label": "Enerji",
+     "text": "Gece rutinine on dakikalık esneme ekle, gün öyle kapansın."
+    }
+   ],
+   "luckyColor": {
+    "name": "Keten",
+    "hex": "#E6DCC6"
+   },
+   "luckyNumber": 8
+  }
+ ]
+}

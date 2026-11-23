@@ -1,0 +1,138 @@
+{
+ "dateLabel": "24 Kasım 2026",
+ "coverDate": "24 Kasım 2026 · Salı",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Uyumlu kıyafetlerle çıkıp birlikte bir fotoğraf çekin."
+    },
+    {
+     "label": "İş",
+     "text": "İki teklif arasında kaldıysan artılarını yan yana yaz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Odana taze çiçek al; renkleri gördükçe yüzün gülecek."
+    }
+   ],
+   "luckyColor": {
+    "name": "Ahududu",
+    "hex": "#E30B5C"
+   },
+   "luckyNumber": 7
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kıskançlık hissedersen önce sor, sonra yorum yap."
+    },
+    {
+     "label": "İş",
+     "text": "Rakamların arkasındaki hikâyeyi bul; raporu satır satır oku."
+    },
+    {
+     "label": "Enerji",
+     "text": "Karanlık bir film yerine bu akşam komedi seç, doya doya gül."
+    }
+   ],
+   "luckyColor": {
+    "name": "Vişne",
+    "hex": "#8E1B3A"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Haritayı açın ve bir sonraki tatil şehrini birlikte seçin."
+    },
+    {
+     "label": "İş",
+     "text": "Öğrenmek istediğin dil için bugün ilk dersi izle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Rüzgârı yüzünde hissedeceğin bir sahil yolunda pedal çevir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Zümrüt",
+    "hex": "#50C878"
+   },
+   "luckyNumber": 12
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Takvimine onunla geçireceğin bir saati iş randevusu gibi yaz."
+    },
+    {
+     "label": "İş",
+     "text": "Ertelediğin o zor telefonu öğleden önce hallet."
+    },
+    {
+     "label": "Enerji",
+     "text": "Omuzlarını kulaklarından uzaklaştır; gün boyu birkaç kez gerin."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kurşun grisi",
+    "hex": "#53565B"
+   },
+   "luckyNumber": 10
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sıra dışı bir randevu öner: planetaryum ya da gece müzesi."
+    },
+    {
+     "label": "İş",
+     "text": "Öneri kutusuna ya da ekip sohbetine aykırı ama işe yarar bir fikir yaz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Arkadaş grubuna bu hafta için bir oyun gecesi öner."
+    }
+   ],
+   "luckyColor": {
+    "name": "Elektrik mavisi",
+    "hex": "#7DF9FF"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kurumuş bir çiçeği kitabın arasına koyup ona hediye et."
+    },
+    {
+     "label": "İş",
+     "text": "Çizim, yazı ya da fotoğraf; işine yaratıcı bir dokunuş ekle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Müzik listeni yenile; sakin şarkılarla akşamı yumuşat."
+    }
+   ],
+   "luckyColor": {
+    "name": "Lagün mavisi",
+    "hex": "#3FA7B5"
+   },
+   "luckyNumber": 1
+  }
+ ]
+}
