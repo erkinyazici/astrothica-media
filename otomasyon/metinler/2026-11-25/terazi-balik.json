@@ -1,0 +1,138 @@
+{
+ "dateLabel": "25 Kasım 2026",
+ "coverDate": "25 Kasım 2026 · Çarşamba",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Aynı kitabı alıp birlikte okuyun, her akşam bir bölüm konuşun."
+    },
+    {
+     "label": "İş",
+     "text": "Gergin bir yazışmayı telefonla, sakin bir sesle çözmeyi dene."
+    },
+    {
+     "label": "Enerji",
+     "text": "Sergi, konser ya da vitrin; bugün gözüne güzel bir şey göster."
+    }
+   ],
+   "luckyColor": {
+    "name": "Pudra pembesi",
+    "hex": "#E8B4B8"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Güvendiğin kişiye bugün küçük bir sırrını aç, bağınız güçlensin."
+    },
+    {
+     "label": "İş",
+     "text": "Sözleşmenin küçük harflerle yazılmış kısmını atlamadan oku."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kara bir çikolata parçası ve sıcak bitki çayı; akşamın ödülü bu."
+    }
+   ],
+   "luckyColor": {
+    "name": "Mürdüm",
+    "hex": "#6E2A5A"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Peru, Kore ya da Etiyopya; denemediğiniz bir mutfaktan sipariş verin."
+    },
+    {
+     "label": "İş",
+     "text": "Merak ettiğin konuda bir uzmana tek bir soru sor, kapı aralanır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Vapurda cam kenarına otur, martılara ve şehre bir süre bak."
+    }
+   ],
+   "luckyColor": {
+    "name": "Ametist",
+    "hex": "#9966CC"
+   },
+   "luckyNumber": 7
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ona sorulmadan yardım et; montunu tut, çantasını taşı."
+    },
+    {
+     "label": "İş",
+     "text": "Yıl bitmeden kapatman gereken üç işi şimdiden listele."
+    },
+    {
+     "label": "Enerji",
+     "text": "Akşam on dakika ışıkları söndür, sessizlikte otur."
+    }
+   ],
+   "luckyColor": {
+    "name": "Çam yeşili",
+    "hex": "#01796F"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Tuhaf bir soru sor ona: uzayda ilk ne yemek isterdin?"
+    },
+    {
+     "label": "İş",
+     "text": "Tekrar eden bir işi otomatiğe bağlayacak küçük bir yol ara."
+    },
+    {
+     "label": "Enerji",
+     "text": "Uzay, mantar ya da ahtapot; hiç bilmediğin bir belgesel aç."
+    }
+   ],
+   "luckyColor": {
+    "name": "Ultraviyole",
+    "hex": "#5F4B8B"
+   },
+   "luckyNumber": 12
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Kısa bir şiir seç ve ona usulca oku; utansan da vazgeçme."
+    },
+    {
+     "label": "İş",
+     "text": "Detayı kaçırmamak için önemli maili göndermeden sesli oku."
+    },
+    {
+     "label": "Enerji",
+     "text": "Bulutların şeklini seyret; aklındaki gürültü yavaşça diner."
+    }
+   ],
+   "luckyColor": {
+    "name": "Lila",
+    "hex": "#C8A2C8"
+   },
+   "luckyNumber": 10
+  }
+ ]
+}

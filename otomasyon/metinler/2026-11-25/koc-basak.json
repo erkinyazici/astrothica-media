@@ -1,0 +1,138 @@
+{
+ "dateLabel": "25 Kasım 2026",
+ "coverDate": "25 Kasım 2026 · Çarşamba",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Onunla bilek güreşine tutuşun; yenilen bulaşıkları yıkasın."
+    },
+    {
+     "label": "İş",
+     "text": "Yarım kalan e-postaları tek oturuşta yanıtla, kutun ferahlasın."
+    },
+    {
+     "label": "Enerji",
+     "text": "Asansörü bugün unut, merdivenleri ikişer ikişer çık."
+    }
+   ],
+   "luckyColor": {
+    "name": "Nar kırmızısı",
+    "hex": "#C0272D"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Zeytin, peynir, taze ekmek; akşama ona küçük bir sofra kur."
+    },
+    {
+     "label": "İş",
+     "text": "Faturalarının son ödeme günlerini telefonuna hatırlatıcı olarak gir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kalın çoraplarını giy, battaniyeye sarıl, bir bölüm dizi izle."
+    }
+   ],
+   "luckyColor": {
+    "name": "Karamel",
+    "hex": "#C68E17"
+   },
+   "luckyNumber": 8
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Dünkü dolunayın ardından aklında kalan sözü ona bugün söyle."
+    },
+    {
+     "label": "İş",
+     "text": "Açık sekmelerini kapat; ekranda yalnızca bugünkü işin kalsın."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kelime oyunu oyna ya da bir bilmeceyle arkadaşını uğraştır."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kanarya sarısı",
+    "hex": "#FFEF00"
+   },
+   "luckyNumber": 5
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Annenin tarifiyle bir çorba pişir, ilk kaseyi ona ikram et."
+    },
+    {
+     "label": "İş",
+     "text": "Toplantıda en az konuşan kişiye fikrini sor, ilgiyle dinle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Pencere kenarında sıcak bir süt iç, sokağın sesini dinle."
+    }
+   ],
+   "luckyColor": {
+    "name": "Ay taşı",
+    "hex": "#C9D6DF"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Hesabı bu akşam sen öde, en sevdiği tatlıyı da sipariş et."
+    },
+    {
+     "label": "İş",
+     "text": "Başardığın son işi özgeçmişine ekle, unutmadan güncelle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Yüksek sesle sevdiğin bir şarkıya eşlik et, komşular idare etsin."
+    }
+   ],
+   "luckyColor": {
+    "name": "Bakır",
+    "hex": "#B87333"
+   },
+   "luckyNumber": 1
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sevdiği küçük ayrıntıları bir kâğıda yaz, birini bugün yap."
+    },
+    {
+     "label": "İş",
+     "text": "Çakışan iki randevun varsa birini şimdiden başka saate al."
+    },
+    {
+     "label": "Enerji",
+     "text": "Ekrandan uzak bir öğle yemeği ye; her lokmanın tadına var."
+    }
+   ],
+   "luckyColor": {
+    "name": "Bisküvi",
+    "hex": "#D9B88F"
+   },
+   "luckyNumber": 6
+  }
+ ]
+}
