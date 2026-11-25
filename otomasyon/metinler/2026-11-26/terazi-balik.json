@@ -1,0 +1,138 @@
+{
+ "dateLabel": "26 Kasım 2026",
+ "coverDate": "26 Kasım 2026 · Perşembe",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ona yakışan bir renk seç, küçük bir hediyeyi o renkle paketle."
+    },
+    {
+     "label": "İş",
+     "text": "Uzlaşma senin işin; iki görüşü tek bir öneride birleştir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Masana küçük bir vazo koy, içine tek bir çiçek yeter."
+    }
+   ],
+   "luckyColor": {
+    "name": "Gül kurusu",
+    "hex": "#C08081"
+   },
+   "luckyNumber": 6
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Göz göze uzun bir sohbet; telefonlar ters dursun, masada kalsın."
+    },
+    {
+     "label": "İş",
+     "text": "Dosyanın derinine in; herkesin atladığı ayrıntıyı sen bul."
+    },
+    {
+     "label": "Enerji",
+     "text": "Mum ışığında sıcak bir banyo, ardından erken bir uyku."
+    }
+   ],
+   "luckyColor": {
+    "name": "Şarap kırmızısı",
+    "hex": "#722F37"
+   },
+   "luckyNumber": 8
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Gelecek tatil için iki rota seç, son kararı ona bırak."
+    },
+    {
+     "label": "İş",
+     "text": "Ücretsiz bir çevrim içi derse kaydol, ilk dersi akşam izle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Sokakta hiç girmediğin bir ara yola sap, ne çıkacağını gör."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kobalt mavisi",
+    "hex": "#0047AB"
+   },
+   "luckyNumber": 10
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Onunla gelecek yaz için küçük, gerçekçi bir plan yapın."
+    },
+    {
+     "label": "İş",
+     "text": "Masandaki evrakları tarihe göre diz, eskiyi arşive kaldır."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kitabını al, sessiz bir kafede bir saat yalnız otur."
+    }
+   ],
+   "luckyColor": {
+    "name": "Antrasit",
+    "hex": "#383E42"
+   },
+   "luckyNumber": 5
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Alışılmadık bir buluşma öner: gece müzesi ya da gözlem evi."
+    },
+    {
+     "label": "İş",
+     "text": "Toplantıda herkesin varsaydığı bir şeyi nazikçe sorgula."
+    },
+    {
+     "label": "Enerji",
+     "text": "Rastgele bir Vikipedi sayfası aç, nereye götürdüğüne bak."
+    }
+   ],
+   "luckyColor": {
+    "name": "Camgöbeği",
+    "hex": "#00B7EB"
+   },
+   "luckyNumber": 1
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sessizce yanına otur, elini tut; bazen söze gerek yok."
+    },
+    {
+     "label": "İş",
+     "text": "İşini müzik eşliğinde yap; odaklanman kolaylaşabilir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Suyun sesini dinle; çeşme, yağmur ya da bir deniz videosu."
+    }
+   ],
+   "luckyColor": {
+    "name": "Sis grisi",
+    "hex": "#C4C3D0"
+   },
+   "luckyNumber": 12
+  }
+ ]
+}

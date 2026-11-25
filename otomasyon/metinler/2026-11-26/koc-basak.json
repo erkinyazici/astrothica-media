@@ -1,0 +1,138 @@
+{
+ "dateLabel": "26 Kasım 2026",
+ "coverDate": "26 Kasım 2026 · Perşembe",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Onu bir dart ya da bilardo düellosuna davet et, kim kazanacak?"
+    },
+    {
+     "label": "İş",
+     "text": "Sabahın ilk saatinde en sevmediğin görevi bitirip aradan çıkar."
+    },
+    {
+     "label": "Enerji",
+     "text": "Bir maç izlemek yerine sen oyna; halı saha ya da basket."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kızıl turuncu",
+    "hex": "#E2522D"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "İkiniz için bir kahvaltı tabağı hazırla; reçel, kaymak, demli çay."
+    },
+    {
+     "label": "İş",
+     "text": "Bu ayki harcamalarını üç kaleme ayır; hangisi şişmiş, gör."
+    },
+    {
+     "label": "Enerji",
+     "text": "Lavanta kokulu bir sabunla akşam duşunu biraz uzat."
+    }
+   ],
+   "luckyColor": {
+    "name": "Sütlü kahve",
+    "hex": "#A67B5B"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Gün içinde ona komik bir ses kaydı gönder, cevabını bekle."
+    },
+    {
+     "label": "İş",
+     "text": "Yazdığın metni bir arkadaşına okut, ilk tepkisini not al."
+    },
+    {
+     "label": "Enerji",
+     "text": "Bugün öğrendiğin yeni bir kelimeyi akşama kadar üç kez kullan."
+    }
+   ],
+   "luckyColor": {
+    "name": "Limon sarısı",
+    "hex": "#FFF44F"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Çocukluğundan bir anını ona anlat, onunkini de dinle."
+    },
+    {
+     "label": "İş",
+     "text": "Yeni gelen bir iş arkadaşına öğle yemeğinde yer aç."
+    },
+    {
+     "label": "Enerji",
+     "text": "Mutfağı tarçın ve portakal kabuğu kokusuyla doldur."
+    }
+   ],
+   "luckyColor": {
+    "name": "Sedef",
+    "hex": "#E8E0D5"
+   },
+   "luckyNumber": 7
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Şık giyin ve onu sürpriz bir akşam yemeğine çıkar."
+    },
+    {
+     "label": "İş",
+     "text": "Ekibindeki birinin emeğini herkesin önünde açıkça takdir et."
+    },
+    {
+     "label": "Enerji",
+     "text": "Dans müziği aç ve mutfakta bir şarkı boyunca kendini bırak."
+    }
+   ],
+   "luckyColor": {
+    "name": "Mandalina",
+    "hex": "#F28500"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Bozuk çekmeceyi ya da gevşek kulpu onun için sessizce tamir et."
+    },
+    {
+     "label": "İş",
+     "text": "Yapışkan nota yarının ilk üç işini yaz, ekranın kenarına koy."
+    },
+    {
+     "label": "Enerji",
+     "text": "Telefonu evde bırak, akşam yürüyüşünde sadece etrafı izle."
+    }
+   ],
+   "luckyColor": {
+    "name": "Ceviz kahvesi",
+    "hex": "#773F1A"
+   },
+   "luckyNumber": 2
+  }
+ ]
+}
