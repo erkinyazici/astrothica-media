@@ -1,0 +1,138 @@
+{
+ "dateLabel": "27 Kasım 2026",
+ "coverDate": "27 Kasım 2026 · Cuma",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Sofrayı güzel tabaklarla kur, sıradan bir akşamı özel kıl."
+    },
+    {
+     "label": "İş",
+     "text": "Adil bir iş bölümü yap; kim neyi üstlenecek, yaz ve paylaş."
+    },
+    {
+     "label": "Enerji",
+     "text": "Saksı bitkilerini yeniden düzenle, köşene küçük bir bahçe kur."
+    }
+   ],
+   "luckyColor": {
+    "name": "Somon",
+    "hex": "#FA8072"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Hiç anlatmadığın küçük bir sırrını ona fısılda, yüzünü izle."
+    },
+    {
+     "label": "İş",
+     "text": "Rakiplerin ne yaptığına bak, kimsenin görmediği boşluğu bul."
+    },
+    {
+     "label": "Enerji",
+     "text": "Gizemli bir belgesel seç, ışıkları kapatıp sonuna kadar izle."
+    }
+   ],
+   "luckyColor": {
+    "name": "Gece moru",
+    "hex": "#3B1E54"
+   },
+   "luckyNumber": 12
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Haritada rastgele bir kasaba seç, hafta sonu oraya kaçın."
+    },
+    {
+     "label": "İş",
+     "text": "Sunumuna bir yolculuk hikâyesiyle başla, dinleyenleri yakala."
+    },
+    {
+     "label": "Enerji",
+     "text": "Bisikletini çıkar ya da kirala; rüzgârı yüzünde hisset."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kiremit",
+    "hex": "#B5523B"
+   },
+   "luckyNumber": 5
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ortak bir hedef belirleyin, ilk adımı bu hafta sonu atın."
+    },
+    {
+     "label": "İş",
+     "text": "Beş yıl sonra nerede olmak istediğini tek cümleyle yaz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Dağ yürüyüşü ayakkabılarını hazırla, cumartesi tepeye tırman."
+    }
+   ],
+   "luckyColor": {
+    "name": "Taş grisi",
+    "hex": "#8B8680"
+   },
+   "luckyNumber": 8
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Birlikte robot süpürgeye isim koyun, evin yeni üyesi olsun."
+    },
+    {
+     "label": "İş",
+     "text": "Herkesin şikâyet ettiği soruna sıra dışı bir çözüm öner."
+    },
+    {
+     "label": "Enerji",
+     "text": "Tanımadığın biriyle sıradan bir konu hakkında sohbete başla."
+    }
+   ],
+   "luckyColor": {
+    "name": "Petrol mavisi",
+    "hex": "#005F6A"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Onunla eski bir film seçin, en duygusal sahnede elini tut."
+    },
+    {
+     "label": "İş",
+     "text": "Çalışırken pencere kenarını seç, gözün arada uzağa baksın."
+    },
+    {
+     "label": "Enerji",
+     "text": "Resim defterini aç, aklına gelen ilk şekli boya kalemleriyle çiz."
+    }
+   ],
+   "luckyColor": {
+    "name": "Akuamarin",
+    "hex": "#7FFFD4"
+   },
+   "luckyNumber": 10
+  }
+ ]
+}

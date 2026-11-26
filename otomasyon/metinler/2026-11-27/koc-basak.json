@@ -1,0 +1,138 @@
+{
+ "dateLabel": "27 Kasım 2026",
+ "coverDate": "27 Kasım 2026 · Cuma",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Cuma akşamı onu bowlinge götür, kaybeden tatlıyı ısmarlasın."
+    },
+    {
+     "label": "İş",
+     "text": "Öğleden önce bitmemiş tek işine son noktayı koy, rahatla."
+    },
+    {
+     "label": "Enerji",
+     "text": "İp atlama ipini bul, balkonda iki yüz kez zıpla."
+    }
+   ],
+   "luckyColor": {
+    "name": "Gelincik",
+    "hex": "#E34234"
+   },
+   "luckyNumber": 7
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Fırından taze simit al, ikinize sıcak sıcak çay demle."
+    },
+    {
+     "label": "İş",
+     "text": "İndirim sepetindeki ürünleri bir gece beklet, sonra karar ver."
+    },
+    {
+     "label": "Enerji",
+     "text": "Ayaklarını ılık suya sok, yanına bir kase kuru incir koy."
+    }
+   ],
+   "luckyColor": {
+    "name": "Şakayık pembesi",
+    "hex": "#E7A4B5"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Mesajlaşırken ona üç soruluk küçük bir bilgi yarışması hazırla."
+    },
+    {
+     "label": "İş",
+     "text": "Notlarını sesli kayıtla tut, akşam dinleyip yazıya geçir."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kulaklığı tak, hiç bilmediğin bir dilde şarkılar dinle."
+    }
+   ],
+   "luckyColor": {
+    "name": "Mimoza sarısı",
+    "hex": "#F0C05A"
+   },
+   "luckyNumber": 6
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Evdeki en rahat koltuğu ona ayır, üstüne bir de battaniye ört."
+    },
+    {
+     "label": "İş",
+     "text": "Morali bozuk görünen iş arkadaşına bir kahve götür, dinle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Eski fotoğraf albümünü çıkar, en sevdiğin kareyi çerçevele."
+    }
+   ],
+   "luckyColor": {
+    "name": "İnci beyazı",
+    "hex": "#F0EAD6"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Parlak bir ruj ya da en sevdiğin gömlek; bu akşam göz alıcı ol."
+    },
+    {
+     "label": "İş",
+     "text": "Fikrini sunarken sahneyi sen al; kısa, net ve gülümseyerek."
+    },
+    {
+     "label": "Enerji",
+     "text": "Aynada kendine bir iltifat et, sonra kapıdan dik çık."
+    }
+   ],
+   "luckyColor": {
+    "name": "Ayçiçeği",
+    "hex": "#FFC512"
+   },
+   "luckyNumber": 1
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Planlarınızı küçük bir kâğıda yaz, hafta sonunu birlikte düzenleyin."
+    },
+    {
+     "label": "İş",
+     "text": "Yazım hatalarını yakalamak senin işin; raporu son kez oku."
+    },
+    {
+     "label": "Enerji",
+     "text": "Dolabından giymediğin üç parçayı ayır, bağış poşetine koy."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kekik yeşili",
+    "hex": "#7C8C5A"
+   },
+   "luckyNumber": 9
+  }
+ ]
+}
