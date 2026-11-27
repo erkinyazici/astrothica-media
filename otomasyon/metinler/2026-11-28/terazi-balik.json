@@ -1,0 +1,138 @@
+{
+ "dateLabel": "28 Kasım 2026",
+ "coverDate": "28 Kasım 2026 · Cumartesi",
+ "signs": [
+  {
+   "sign": "terazi",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Antikacı dükkânlarını gezin, ikinizin de seveceği bir obje bulun."
+    },
+    {
+     "label": "İş",
+     "text": "Önümüzdeki haftaya kendine ait boş bir öğleden sonra işle."
+    },
+    {
+     "label": "Enerji",
+     "text": "Çiçekçiden bir demet okaliptüs al, duşun yanına as."
+    }
+   ],
+   "luckyColor": {
+    "name": "Şeftali",
+    "hex": "#FFCBA4"
+   },
+   "luckyNumber": 4
+  },
+  {
+   "sign": "akrep",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Gece yarısı mutfakta ikiniz için gizlice krep yapın."
+    },
+    {
+     "label": "İş",
+     "text": "Kimseye söylemeden başladığın işin ilk adımını bugün at."
+    },
+    {
+     "label": "Enerji",
+     "text": "Zor bir yapboza başla, bitene kadar masayı ona bırak."
+    }
+   ],
+   "luckyColor": {
+    "name": "Obsidyen",
+    "hex": "#1C1B22"
+   },
+   "luckyNumber": 10
+  },
+  {
+   "sign": "yay",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Gözü kapalı haritaya parmak basın, sonraki gezi orası olsun."
+    },
+    {
+     "label": "İş",
+     "text": "Bir konferans konuşması izle, en çok itiraz ettiğin noktayı yaz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Uzak bir ilçeye tren bileti al, pencereden manzarayı seyret."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kızılcık",
+    "hex": "#B3001B"
+   },
+   "luckyNumber": 9
+  },
+  {
+   "sign": "oglak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Eski bir lokantaya gidin, müdavimlerin hikâyelerini dinleyin."
+    },
+    {
+     "label": "İş",
+     "text": "Hediye listeni şimdiden yap, her isim için bir üst sınır koy."
+    },
+    {
+     "label": "Enerji",
+     "text": "Saat gibi düzenli bir gün kur: erken kalk, erken yat."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kahve çekirdeği",
+    "hex": "#4B3621"
+   },
+   "luckyNumber": 1
+  },
+  {
+   "sign": "kova",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Fidan dikimine ya da sahil temizliğine el ele katılın."
+    },
+    {
+     "label": "İş",
+     "text": "Aklındaki çılgın fikri tek sayfalık bir taslak olarak çiz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Bozuk bir eşyayı söküp içini incele, nasıl çalıştığını öğren."
+    }
+   ],
+   "luckyColor": {
+    "name": "Lavanta",
+    "hex": "#B57EDC"
+   },
+   "luckyNumber": 7
+  },
+  {
+   "sign": "balik",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Yağmur yağarsa şemsiyesiz çıkın, ıslanınca gülerek eve koşun."
+    },
+    {
+     "label": "İş",
+     "text": "Defterine aklındaki tasarımı karala, renkleri sonra seç."
+    },
+    {
+     "label": "Enerji",
+     "text": "Salep yap, üstüne bolca tarçın serp, pencere önünde yavaşça iç."
+    }
+   ],
+   "luckyColor": {
+    "name": "Menekşe",
+    "hex": "#8F5E99"
+   },
+   "luckyNumber": 12
+  }
+ ]
+}

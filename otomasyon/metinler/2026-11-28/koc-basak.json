@@ -1,0 +1,138 @@
+{
+ "dateLabel": "28 Kasım 2026",
+ "coverDate": "28 Kasım 2026 · Cumartesi",
+ "signs": [
+  {
+   "sign": "koc",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Yastık savaşı ilan et; ilk pes eden ötekine kahve yapsın."
+    },
+    {
+     "label": "İş",
+     "text": "Çekmecedeki kartvizitleri tara, birine pazartesi selam yaz."
+    },
+    {
+     "label": "Enerji",
+     "text": "Parkta koşu yolunu bul, son turu hızlanarak bitir."
+    }
+   ],
+   "luckyColor": {
+    "name": "Biber kırmızısı",
+    "hex": "#C1272D"
+   },
+   "luckyNumber": 3
+  },
+  {
+   "sign": "boga",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Ona sıcak bir boza ısmarla, üstüne leblebi tozunu sen serp."
+    },
+    {
+     "label": "İş",
+     "text": "Banka ekstreni kalem kalem oku, unuttuğun bir ödeme var mı bak."
+    },
+    {
+     "label": "Enerji",
+     "text": "Öğle uykusuna yirmi dakika ayır, alarmı kurmayı unutma."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kestane",
+    "hex": "#954535"
+   },
+   "luckyNumber": 6
+  },
+  {
+   "sign": "ikizler",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Onunla kitapçıda kaybolun, birbirinize sürpriz bir kitap seçin."
+    },
+    {
+     "label": "İş",
+     "text": "Üç iş fikrini bir arkadaşına anlat, en çok heyecanlananı seç."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kahvecideki sırada önündeki kişiyle sohbet et, güne renk kat."
+    }
+   ],
+   "luckyColor": {
+    "name": "Turkuaz",
+    "hex": "#40E0D0"
+   },
+   "luckyNumber": 11
+  },
+  {
+   "sign": "yengec",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Onun en sevdiği yemeği annesinden öğren, akşam aynısını pişir."
+    },
+    {
+     "label": "İş",
+     "text": "Hafta içi biriken ev işlerini ikiye böl, yarısını bugün hallet."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kaşığı ayva tatlısına daldır, karanfil kokusunu içine çek."
+    }
+   ],
+   "luckyColor": {
+    "name": "Gümüş",
+    "hex": "#C0C0C0"
+   },
+   "luckyNumber": 2
+  },
+  {
+   "sign": "aslan",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Bu akşam karaoke gecesi; ikiniz için bir düet şarkısı seçin."
+    },
+    {
+     "label": "İş",
+     "text": "Hazırladığın sunumu bir dostuna prova et, alkışı şimdiden al."
+    },
+    {
+     "label": "Enerji",
+     "text": "Kırmızı bir atkı ya da parlak bir küpe; bugün bir parça ışılda."
+    }
+   ],
+   "luckyColor": {
+    "name": "Kehribar",
+    "hex": "#FFBF00"
+   },
+   "luckyNumber": 5
+  },
+  {
+   "sign": "basak",
+   "items": [
+    {
+     "label": "Aşk",
+     "text": "Buzdolabını birlikte temizleyin, kalanlarla bir omlet yapın."
+    },
+    {
+     "label": "İş",
+     "text": "Telefonundaki ekran görüntülerini ayıkla, yer aç ve rahatla."
+    },
+    {
+     "label": "Enerji",
+     "text": "Sabah yogası için kısa bir video aç, nefesine odaklan."
+    }
+   ],
+   "luckyColor": {
+    "name": "Buğday",
+    "hex": "#E5C99A"
+   },
+   "luckyNumber": 8
+  }
+ ]
+}
